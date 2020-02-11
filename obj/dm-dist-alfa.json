@@ -1,0 +1,10234 @@
+[
+  {
+    "affects": [], 
+    "aliases": [
+      "beer", 
+      "barrel"
+    ], 
+    "cost": 300, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3000, 
+    "long_desc": "A beer barrel has been left here.", 
+    "rent": 100, 
+    "short_desc": "a barrel", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      50, 
+      50, 
+      1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 65
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "beer", 
+      "bottle"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3001, 
+    "long_desc": "A beer bottle has been left here.", 
+    "rent": 8, 
+    "short_desc": "a bottle", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      8, 
+      8, 
+      1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "ale", 
+      "bottle", 
+      "dark"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3002, 
+    "long_desc": "A dark bottle of ale has been left here.", 
+    "rent": 3, 
+    "short_desc": "a bottle", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      8, 
+      8, 
+      3, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "firebreather", 
+      "bottle"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3003, 
+    "long_desc": "A firebreather has been left here.", 
+    "rent": 17, 
+    "short_desc": "a firebreather", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      8, 
+      8, 
+      7, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "local", 
+      "bottle"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3004, 
+    "long_desc": "A dark bottle has been left here.", 
+    "rent": 7, 
+    "short_desc": "a bottle", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      8, 
+      8, 
+      8, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bread"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3010, 
+    "long_desc": "A loaf of bread has been left here.", 
+    "rent": 10, 
+    "short_desc": "a bread", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      12, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "danish", 
+      "pastry"
+    ], 
+    "cost": 5, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3011, 
+    "long_desc": "A nice looking delicious danish pastry has been placed here.", 
+    "rent": 5, 
+    "short_desc": "a danish pastry", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "action_desc": "pierce", 
+    "affects": [], 
+    "aliases": [
+      "dagger"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3020, 
+    "long_desc": "A dagger with a long thin blade is here.", 
+    "rent": 3, 
+    "short_desc": "a dagger", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      4, 
+      11
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "action_desc": "slash", 
+    "affects": [], 
+    "aliases": [
+      "sword", 
+      "small"
+    ], 
+    "cost": 60, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The small sword seems to have an inscription of some sort.", 
+        "keywords": [
+          "sword", 
+          "small"
+        ]
+      }, 
+      {
+        "desc": "It says : May this sword be a good companion.", 
+        "keywords": [
+          "inscription"
+        ]
+      }
+    ], 
+    "id": 3021, 
+    "long_desc": "A small sword lies here.", 
+    "rent": 20, 
+    "short_desc": "a small sword", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      6, 
+      11
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "action_desc": "slash", 
+    "affects": [], 
+    "aliases": [
+      "sword", 
+      "long"
+    ], 
+    "cost": 600, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3022, 
+    "long_desc": "A long sword has been left here.", 
+    "rent": 200, 
+    "short_desc": "a long sword", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      8, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "action_desc": "pound", 
+    "affects": [], 
+    "aliases": [
+      "club", 
+      "wooden"
+    ], 
+    "cost": 12, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3023, 
+    "long_desc": "A simpel looking wooden club is here.", 
+    "rent": 4, 
+    "short_desc": "a wooden club", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      3, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "action_desc": "pound", 
+    "affects": [], 
+    "aliases": [
+      "warhammer", 
+      "hammer"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3024, 
+    "long_desc": "A medium sized warhammer is here.", 
+    "rent": 17, 
+    "short_desc": "a warhammer", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      5, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 6
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "torch"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3030, 
+    "long_desc": "A large torch.", 
+    "rent": 3, 
+    "short_desc": "a torch", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      24, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": null, 
+        "value": 65536
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "lantern"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3031, 
+    "long_desc": "A brass lantern.", 
+    "rent": 17, 
+    "short_desc": "a lantern", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      96, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": null, 
+        "value": 65536
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bag"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3032, 
+    "long_desc": "A small bag.", 
+    "rent": 7, 
+    "short_desc": "a bag", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      50, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "box"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3033, 
+    "long_desc": "A small box.", 
+    "rent": 7, 
+    "short_desc": "a box", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      10, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "paper", 
+      "note"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3034, 
+    "long_desc": "A paper note has been left here.", 
+    "rent": 2, 
+    "short_desc": "a paper note", 
+    "type": {
+      "note": "NOTE", 
+      "value": 16
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "quill", 
+      "goose-feather"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3035, 
+    "long_desc": "A goose-feather quill is lying here.", 
+    "rent": 4, 
+    "short_desc": "a goose-feather quill", 
+    "type": {
+      "note": "PEN", 
+      "value": 21
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "scroll", 
+      "identify"
+    ], 
+    "cost": 2000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The scroll has a magic formula drawn upon it:\n     ???\n    ?   ?\n       ?\n      ?\n      ?\n      *", 
+        "keywords": [
+          "scroll", 
+          "identify"
+        ]
+      }
+    ], 
+    "id": 3040, 
+    "long_desc": "A scroll has carelessly been left here.", 
+    "rent": 50, 
+    "short_desc": "a scroll of identify", 
+    "type": {
+      "note": "SCROLL", 
+      "value": 2
+    }, 
+    "values": [
+      12, 
+      53, 
+      -1, 
+      -1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "potion", 
+      "yellow"
+    ], 
+    "cost": 400, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The potion has a small label 'Detect The Invisible'.", 
+        "keywords": [
+          "potion", 
+          "yellow"
+        ]
+      }
+    ], 
+    "id": 3041, 
+    "long_desc": "A small yellow potion has carelessly been left here.", 
+    "rent": 50, 
+    "short_desc": "a yellow potion of see invisible", 
+    "type": {
+      "note": "POTION", 
+      "value": 10
+    }, 
+    "values": [
+      12, 
+      19, 
+      -1, 
+      -1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "scroll", 
+      "recall"
+    ], 
+    "cost": 2000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The scroll has written a formulae of 'Word of Recall' upon it.", 
+        "keywords": [
+          "scroll"
+        ]
+      }
+    ], 
+    "id": 3042, 
+    "long_desc": "A scroll has carelessly been left here.", 
+    "rent": 100, 
+    "short_desc": "a scroll of recall", 
+    "type": {
+      "note": "SCROLL", 
+      "value": 2
+    }, 
+    "values": [
+      12, 
+      42, 
+      -1, 
+      -1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wand"
+    ], 
+    "cost": 4000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The wand is an old dark stick. You notice a small symbol etched at the\nbase of the wand. It looks like this:\n\n     \\ /\n    - O -\n     / \\", 
+        "keywords": [
+          "wand"
+        ]
+      }
+    ], 
+    "id": 3043, 
+    "long_desc": "A wand has carelessly been left here.", 
+    "rent": 100, 
+    "short_desc": "a wand of invisibility", 
+    "type": {
+      "note": "WAND", 
+      "value": 3
+    }, 
+    "values": [
+      12, 
+      2, 
+      2, 
+      29
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "staff"
+    ], 
+    "cost": 5000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The staff is made of old oak, and is around five feet long. It fits\nperfectly into your hand. You notice a small symbol etched at the\nbase of the staff, it looks like:\n\n  ZZZZZ\n     Z\n    Z\n   Z\n  ZZZZZ  z   z", 
+        "keywords": [
+          "staff"
+        ]
+      }
+    ], 
+    "id": 3044, 
+    "long_desc": "A staff has carelessly been left here.", 
+    "rent": 100, 
+    "short_desc": "a staff of sleep", 
+    "type": {
+      "note": "STAFF", 
+      "value": 4
+    }, 
+    "values": [
+      12, 
+      1, 
+      1, 
+      38
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 7
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "jacket", 
+      "scale", 
+      "mail"
+    ], 
+    "cost": 1000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3045, 
+    "long_desc": "A scale mail jacket is lying on the ground.", 
+    "rent": 300, 
+    "short_desc": "a scale mail jacket", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bronze", 
+      "breast", 
+      "plate"
+    ], 
+    "cost": 7000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3046, 
+    "long_desc": "A bronze breast plate is lying on the ground.", 
+    "rent": 2250, 
+    "short_desc": "a bronze breast plate", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 80
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "raft"
+    ], 
+    "cost": 400, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The raft looks very primitive.", 
+        "keywords": [
+          "raft"
+        ]
+      }
+    ], 
+    "id": 3050, 
+    "long_desc": "A raft has been left here.", 
+    "rent": 20000, 
+    "short_desc": "a raft", 
+    "type": {
+      "note": "BOAT", 
+      "value": 22
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 75
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "canoe"
+    ], 
+    "cost": 1000, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The canoe is fairly light.", 
+        "keywords": [
+          "canoe"
+        ]
+      }
+    ], 
+    "id": 3051, 
+    "long_desc": "A canoe has been left here.", 
+    "rent": 10000, 
+    "short_desc": "a canoe", 
+    "type": {
+      "note": "BOAT", 
+      "value": 22
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 32
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "scroll", 
+      "recall"
+    ], 
+    "cost": 2000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The scroll has written a formulae of 'Word of Recall' upon it.", 
+        "keywords": [
+          "scroll"
+        ]
+      }
+    ], 
+    "id": 3052, 
+    "long_desc": "A scroll has carelessly been left here.", 
+    "rent": 100, 
+    "short_desc": "a scroll of recall", 
+    "type": {
+      "note": "SCROLL", 
+      "value": 2
+    }, 
+    "values": [
+      12, 
+      42, 
+      -1, 
+      -1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wand"
+    ], 
+    "cost": 4000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The wand is an old dark stick. You notice a small symbol etched at the\nbase of the wand. It looks like this:\n\n     \\ /\n    - O -\n     / \\", 
+        "keywords": [
+          "wand"
+        ]
+      }
+    ], 
+    "id": 3053, 
+    "long_desc": "A wand has carelessly been left here.", 
+    "rent": 100, 
+    "short_desc": "a wand of invisibility", 
+    "type": {
+      "note": "WAND", 
+      "value": 3
+    }, 
+    "values": [
+      12, 
+      2, 
+      2, 
+      29
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "staff"
+    ], 
+    "cost": 5000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The staff is made of old oak, and is around five feet long. It fits\nperfectly into your hand. You notice a small symbol etched at the\nbase of the staff, it looks like:\n\n  ZZZZZ\n     Z\n    Z\n   Z\n  ZZZZZ  z   z", 
+        "keywords": [
+          "staff"
+        ]
+      }
+    ], 
+    "id": 3054, 
+    "long_desc": "A staff has carelessly been left here.", 
+    "rent": 100, 
+    "short_desc": "a staff of sleep", 
+    "type": {
+      "note": "STAFF", 
+      "value": 4
+    }, 
+    "values": [
+      12, 
+      1, 
+      1, 
+      38
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 7
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "jerkin", 
+      "leather"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3060, 
+    "long_desc": "A leather jerkin is lying on the ground.", 
+    "rent": 20, 
+    "short_desc": "a leather jerkin", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cap", 
+      "leather"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3061, 
+    "long_desc": "A leather cap is lying on the ground.", 
+    "rent": 10, 
+    "short_desc": "a leather cap", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "pants", 
+      "leather"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3062, 
+    "long_desc": "A pair of leather pants is lying on the ground.", 
+    "rent": 10, 
+    "short_desc": "a pair of leather pants", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3063, 
+    "long_desc": "A pair of leather boots lies here.", 
+    "rent": 10, 
+    "short_desc": "a pair of leather boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "gloves", 
+      "leather"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3064, 
+    "long_desc": "A pair of leather gloves is lying on the ground.", 
+    "rent": 10, 
+    "short_desc": "a pair of leather gloves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sleeves", 
+      "leather"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3065, 
+    "long_desc": "A pair of leather sleeves is lying on the ground.", 
+    "rent": 10, 
+    "short_desc": "a pair of leather sleeves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "jerkin", 
+      "studded", 
+      "leather"
+    ], 
+    "cost": 200, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3066, 
+    "long_desc": "A studded leather jerkin is lying on the ground.", 
+    "rent": 40, 
+    "short_desc": "a studded leather jerkin", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cap", 
+      "hard", 
+      "leather"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3067, 
+    "long_desc": "A hard leather cap is lying on the ground.", 
+    "rent": 20, 
+    "short_desc": "a hard leather cap", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "pants", 
+      "studded", 
+      "leather"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3068, 
+    "long_desc": "A pair of studded leather pants is lying on the ground.", 
+    "rent": 20, 
+    "short_desc": "a pair of studded leather pants", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots", 
+      "hard"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3069, 
+    "long_desc": "A pair of hard leather boots lies here.", 
+    "rent": 20, 
+    "short_desc": "a pair of hard leather boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "gloves", 
+      "hard", 
+      "leather"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3070, 
+    "long_desc": "A pair of hard leather gloves is lying on the ground.", 
+    "rent": 20, 
+    "short_desc": "a pair of hard leather gloves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sleeves", 
+      "studded", 
+      "leather"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3071, 
+    "long_desc": "A pair of studded leather sleeves is lying on the ground.", 
+    "rent": 20, 
+    "short_desc": "a pair of studded leather sleeves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "jerkin", 
+      "scale", 
+      "mail"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3072, 
+    "long_desc": "A scale mail jerkin is lying on the ground.", 
+    "rent": 100, 
+    "short_desc": "a scale mail jerkin", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coif", 
+      "scale", 
+      "mail"
+    ], 
+    "cost": 250, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3073, 
+    "long_desc": "A scale mail coif is lying on the ground.", 
+    "rent": 50, 
+    "short_desc": "a scale mail coif", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "skirt", 
+      "scale", 
+      "mail"
+    ], 
+    "cost": 250, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3074, 
+    "long_desc": "A long scale mail skirt is lying on the ground.", 
+    "rent": 50, 
+    "short_desc": "a long scale mail skirt", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots", 
+      "reinforced"
+    ], 
+    "cost": 250, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3075, 
+    "long_desc": "A pair of reinforced boots lies here.", 
+    "rent": 50, 
+    "short_desc": "a pair of reinforced boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 6
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "gloves", 
+      "reinforced"
+    ], 
+    "cost": 250, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3076, 
+    "long_desc": "A pair of reinforced gloves is lying on the ground.", 
+    "rent": 50, 
+    "short_desc": "a pair of reinforced gloves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sleeves", 
+      "scale", 
+      "mail"
+    ], 
+    "cost": 250, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3077, 
+    "long_desc": "A pair of scale mail sleeves is lying on the ground.", 
+    "rent": 50, 
+    "short_desc": "a pair of scale mail sleeves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "chain", 
+      "mail", 
+      "jerkin"
+    ], 
+    "cost": 1000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3078, 
+    "long_desc": "A chain mail jerkin is lying on the ground.", 
+    "rent": 400, 
+    "short_desc": "a chain mail jerkin", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coif", 
+      "chain", 
+      "mail"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3079, 
+    "long_desc": "A chain mail coif is lying on the ground.", 
+    "rent": 100, 
+    "short_desc": "a chain mail coif", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "skirt", 
+      "chain", 
+      "mail"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3080, 
+    "long_desc": "A long chain mail skirt is lying on the ground.", 
+    "rent": 100, 
+    "short_desc": "a long chain mail skirt", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots", 
+      "ironbound"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3081, 
+    "long_desc": "A pair of ironbound boots lies here.", 
+    "rent": 100, 
+    "short_desc": "a pair of ironbound boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 6
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "gloves", 
+      "ironbound"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3082, 
+    "long_desc": "A pair of ironbound gloves is lying on the ground.", 
+    "rent": 100, 
+    "short_desc": "a pair of ironbound gloves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sleeves", 
+      "chain", 
+      "mail"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3083, 
+    "long_desc": "A pair of chain mail sleeves is lying on the ground.", 
+    "rent": 100, 
+    "short_desc": "a pair of chain mail sleeves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bronze", 
+      "breast", 
+      "plate"
+    ], 
+    "cost": 5000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3084, 
+    "long_desc": "A bronze breast plate is lying on the ground.", 
+    "rent": 1000, 
+    "short_desc": "a bronze breast plate", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "helmet", 
+      "bronze"
+    ], 
+    "cost": 2500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3085, 
+    "long_desc": "A bronze helmet is lying on the ground.", 
+    "rent": 500, 
+    "short_desc": "a bronze helmet", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "leggings", 
+      "bronze"
+    ], 
+    "cost": 2500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3086, 
+    "long_desc": "A pair of bronze leggings is lying on the ground.", 
+    "rent": 500, 
+    "short_desc": "a pair of bronze leggings", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots", 
+      "bronze"
+    ], 
+    "cost": 2500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3087, 
+    "long_desc": "A pair of bronze boots is lying on the ground.", 
+    "rent": 500, 
+    "short_desc": "a pair of bronze boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "gauntlets", 
+      "bronze"
+    ], 
+    "cost": 2500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3088, 
+    "long_desc": "A pair of bronze gauntlets is lying on the ground.", 
+    "rent": 500, 
+    "short_desc": "a pair of bronze gauntlets", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bracers", 
+      "bronze"
+    ], 
+    "cost": 2500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3089, 
+    "long_desc": "A pair of bronze bracers is lying on the ground.", 
+    "rent": 500, 
+    "short_desc": "a pair of bronze bracers", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "iron", 
+      "breast", 
+      "plate"
+    ], 
+    "cost": 10000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3090, 
+    "long_desc": "An iron breast plate is lying on the ground.", 
+    "rent": 2000, 
+    "short_desc": "an iron breast plate", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      7, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "helmet", 
+      "iron"
+    ], 
+    "cost": 5000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3091, 
+    "long_desc": "An iron helmet is lying on the ground.", 
+    "rent": 1000, 
+    "short_desc": "an iron helmet", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      7, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "leggings", 
+      "iron"
+    ], 
+    "cost": 5000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3092, 
+    "long_desc": "A pair of iron leggings is lying on the ground.", 
+    "rent": 1000, 
+    "short_desc": "a pair of iron leggings", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      7, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots", 
+      "iron"
+    ], 
+    "cost": 5000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3093, 
+    "long_desc": "A pair of iron boots is lying on the ground.", 
+    "rent": 1000, 
+    "short_desc": "a pair of iron boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      7, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "gauntlets", 
+      "iron"
+    ], 
+    "cost": 5000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3094, 
+    "long_desc": "A pair of iron gauntlets is lying on the ground.", 
+    "rent": 1000, 
+    "short_desc": "a pair of iron gauntlets", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      7, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bracers", 
+      "iron"
+    ], 
+    "cost": 5000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3095, 
+    "long_desc": "A pair of iron bracers is lying on the ground.", 
+    "rent": 1000, 
+    "short_desc": "a pair of iron bracers", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shield", 
+      "small", 
+      "wooden"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3096, 
+    "long_desc": "A small wooden shield is lying on the ground.", 
+    "rent": 20, 
+    "short_desc": "a small wooden shield", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_SHIELD", 
+        "value": 512
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shield", 
+      "small", 
+      "metal"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3097, 
+    "long_desc": "A small metal shield is lying on the ground.", 
+    "rent": 100, 
+    "short_desc": "a small metal shield", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_SHIELD", 
+        "value": 512
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shield", 
+      "large", 
+      "metal"
+    ], 
+    "cost": 1000, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3098, 
+    "long_desc": "A large metal shield is lying on the ground.", 
+    "rent": 200, 
+    "short_desc": "a large metal shield", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_SHIELD", 
+        "value": 512
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "board", 
+      "bulletin"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Use \"Look AT board\" to see a listing of the messages. Use \"Read\n<message number>\" or \"Remove <message number>\" to read or remove\na message, respectively.", 
+        "keywords": [
+          "board"
+        ]
+      }
+    ], 
+    "id": 3099, 
+    "long_desc": "A large bulletin board is mounted on a wall here.", 
+    "rent": 0, 
+    "short_desc": "a bulletin board", 
+    "type": {
+      "note": "TRASH", 
+      "value": 13
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "tea", 
+      "cup"
+    ], 
+    "cost": 5, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small simple cup.", 
+        "keywords": [
+          "cup"
+        ]
+      }
+    ], 
+    "id": 3100, 
+    "long_desc": "A cup has been set here.", 
+    "rent": 1, 
+    "short_desc": "a cup", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      2, 
+      2, 
+      11, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coffee", 
+      "cup"
+    ], 
+    "cost": 7, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small simple cup.", 
+        "keywords": [
+          "cup"
+        ]
+      }
+    ], 
+    "id": 3101, 
+    "long_desc": "A cup has been set here.", 
+    "rent": 1, 
+    "short_desc": "a cup", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      2, 
+      2, 
+      12, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "water", 
+      "cup"
+    ], 
+    "cost": 2, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a large simple cup.", 
+        "keywords": [
+          "cup"
+        ]
+      }
+    ], 
+    "id": 3102, 
+    "long_desc": "A cup has been set here.", 
+    "rent": 1, 
+    "short_desc": "a cup", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      2, 
+      2, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "iron"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The iron key is not special.", 
+        "keywords": [
+          "key", 
+          "iron"
+        ]
+      }
+    ], 
+    "id": 3120, 
+    "long_desc": "An iron key has been left here.", 
+    "rent": 10, 
+    "short_desc": "a key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "rusty"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The key is a fairly large rusty key.  You notice some fresh dirt on it.", 
+        "keywords": [
+          "key", 
+          "rusty"
+        ]
+      }
+    ], 
+    "id": 3121, 
+    "long_desc": "A rusty key has been left here.", 
+    "rent": 10, 
+    "short_desc": "a key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "wooden"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The wooden key is not special.", 
+        "keywords": [
+          "key", 
+          "wooden"
+        ]
+      }
+    ], 
+    "id": 3122, 
+    "long_desc": "A wooden key has been left here.", 
+    "rent": 10, 
+    "short_desc": "a key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "brass"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The brass key is small and looks like it fits a very complicated lock.", 
+        "keywords": [
+          "key", 
+          "brass"
+        ]
+      }
+    ], 
+    "id": 3123, 
+    "long_desc": "A brass key has been left here.", 
+    "rent": 10, 
+    "short_desc": "a key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "hand", 
+      "cuffs"
+    ], 
+    "cost": 200, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3129, 
+    "long_desc": "A pair of hand cuffs has been left here.", 
+    "rent": 40, 
+    "short_desc": "a pair of hand cuffs", 
+    "type": {
+      "note": "TRASH", 
+      "value": 13
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bench"
+    ], 
+    "cost": 600, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a quite heavy but very comfortable bench.  It is placed with its front\ntowards the river so you can sit and watch the river and the houses on the\nother side.", 
+        "keywords": [
+          "bench"
+        ]
+      }
+    ], 
+    "id": 3134, 
+    "long_desc": "A white-painted wooden bench is standing here.", 
+    "rent": 200, 
+    "short_desc": "the Bench", 
+    "type": {
+      "note": "OTHER", 
+      "value": 12
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "water", 
+      "fountain"
+    ], 
+    "cost": 3000, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is very nice.  Made from fine white marble.", 
+        "keywords": [
+          "fountain"
+        ]
+      }
+    ], 
+    "id": 3135, 
+    "long_desc": "A small white fountain is standing at the end of the road.", 
+    "rent": 1000, 
+    "short_desc": "a fountain", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      50, 
+      50, 
+      0, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coins", 
+      "gold"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 3136, 
+    "long_desc": "A small pile of gold coins lies here.", 
+    "rent": 0, 
+    "short_desc": "a small pile of gold coins", 
+    "type": {
+      "note": "MONEY", 
+      "value": 20
+    }, 
+    "values": [
+      20, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "steel"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "A key of this size must fit a very strong lock.", 
+        "keywords": [
+          "key", 
+          "steel"
+        ]
+      }
+    ], 
+    "id": 3137, 
+    "long_desc": "A large steel key has been left here.", 
+    "rent": 10, 
+    "short_desc": "a steel key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "metal"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_papi"
+        ]
+      }, 
+      {
+        "desc": "You notice 'My Cottage' has been inscribed on the key.", 
+        "keywords": [
+          "key", 
+          "metal"
+        ]
+      }
+    ], 
+    "id": 3300, 
+    "long_desc": "A small metal key has been dropped here.", 
+    "rent": 100, 
+    "short_desc": "a metal key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "brass"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_quifael"
+        ]
+      }, 
+      {
+        "desc": "It looks as if it is very old.  There are some small marks on it as if\nsomebody with tiny (but strong!) teeth has been biting a lot in it.", 
+        "keywords": [
+          "key", 
+          "brass"
+        ]
+      }
+    ], 
+    "id": 3301, 
+    "long_desc": "An old brass key has been dropped here.", 
+    "rent": 100, 
+    "short_desc": "a brass key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "metal"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_manxam"
+        ]
+      }, 
+      {
+        "desc": "It is a small insignificant metal key on which the letter \"M\" has been\ninscribed.", 
+        "keywords": [
+          "key", 
+          "metal"
+        ]
+      }
+    ], 
+    "id": 3302, 
+    "long_desc": "A small metal key has been dropped here.", 
+    "rent": 100, 
+    "short_desc": "a metal key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "chest"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It looks too bulky to be moved and does not appear to be equipped with a\nlock.", 
+        "keywords": [
+          "chest"
+        ]
+      }
+    ], 
+    "id": 3303, 
+    "long_desc": "A large chest is standing next to the bed.", 
+    "rent": 1000000, 
+    "short_desc": "a large chest", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      100, 
+      1, 
+      -1, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 100
+  }, 
+  {
+    "action_desc": "pound", 
+    "affects": [
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": 2
+      }
+    ], 
+    "aliases": [
+      "mace", 
+      "heavy"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "A beautifully crafted mace of mithril.  You can see the owners name on the\nadamantine handle.  The name, which is chiselled into the handle and then\nfilled with diamond dust, is Manxam.", 
+        "keywords": [
+          "mace"
+        ]
+      }
+    ], 
+    "id": 3304, 
+    "long_desc": "Manxam's heavy mace is lying here.", 
+    "rent": 1000000, 
+    "short_desc": "Manxam's heavy mace", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      6, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 6
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "brass", 
+      "breast", 
+      "plate"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "A good-looking breastplate made of brass.  It's engraved a lot, the largest\nengraving being the name of the owner, Manxam.", 
+        "keywords": [
+          "brass", 
+          "breast", 
+          "plate"
+        ]
+      }
+    ], 
+    "id": 3305, 
+    "long_desc": "Manxam's brass breast plate is lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "Manxam's brass breast plate", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 80
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "leggings", 
+      "brass"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "A pair of brass leggings, well crafted, with the owners name engraved on\nthem.  The name is, of course, Manxam.", 
+        "keywords": [
+          "leggings", 
+          "brass"
+        ]
+      }
+    ], 
+    "id": 3306, 
+    "long_desc": "Manxam's brass leggings are lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "Manxam's brass leggings", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "mithril"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_gimli"
+        ]
+      }, 
+      {
+        "desc": "The small mithril key is a sample of exquisite workmanship.  It has the\nletter \"G\" inscribed.", 
+        "keywords": [
+          "key", 
+          "mithril"
+        ]
+      }
+    ], 
+    "id": 3307, 
+    "long_desc": "A small mithril key has been dropped here.", 
+    "rent": 100, 
+    "short_desc": "a mithril key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coke", 
+      "machine"
+    ], 
+    "cost": 3000, 
+    "effects": [
+      {
+        "note": "HUM", 
+        "value": 2
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a big old-fashioned thing that most of all resembles a cupboard with a\nslot large enough to hold three cans of Coke at once.  It doesn't appear to\nhave any buttons or any other means of control.  Golden letters on its front\ntell that this is a Quifatronic K-1000 mk I.", 
+        "keywords": [
+          "coke", 
+          "machine"
+        ]
+      }
+    ], 
+    "id": 3308, 
+    "long_desc": "A Coke machine is standing here.", 
+    "rent": 300, 
+    "short_desc": "a Coke machine", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      3, 
+      0, 
+      -1, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "can", 
+      "coke"
+    ], 
+    "cost": 6, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small red and white can that has 'Keep MudLand tidy' written on its\nside and the name Gimli printed on its bottom.", 
+        "keywords": [
+          "can", 
+          "coke"
+        ]
+      }
+    ], 
+    "id": 3309, 
+    "long_desc": "A can of Coke been left here.", 
+    "rent": 3, 
+    "short_desc": "a can of Coke", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      3, 
+      3, 
+      15, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "iron"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_doz"
+        ]
+      }, 
+      {
+        "desc": "The small iron key has the letter \"D\" inscribed on its surface.", 
+        "keywords": [
+          "key", 
+          "iron"
+        ]
+      }
+    ], 
+    "id": 3310, 
+    "long_desc": "A small iron key has been dropped here.", 
+    "rent": 100, 
+    "short_desc": "an iron key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "pit"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This is where you put money and items to help Doz expand this shrine and\nconvert more people to the belief of Eru our creator.", 
+        "keywords": [
+          "pit"
+        ]
+      }
+    ], 
+    "id": 3311, 
+    "long_desc": "A pit for sacrifices is in the north part of the hall.", 
+    "rent": 0, 
+    "short_desc": "the pit", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      1000, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "golden", 
+      "breast", 
+      "plate"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This breast plate is made of solid gold, yet it seems to be as hard as a\nnormal steel plate. The name 'Doz' is engraved in silver letters on it.", 
+        "keywords": [
+          "golden", 
+          "breast", 
+          "plate"
+        ]
+      }
+    ], 
+    "id": 3312, 
+    "long_desc": "A golden breast plate is lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "a golden breast plate", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      7, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "golden", 
+      "helmet"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This helmet is made of solid gold. On the inside of it you find the name\n'Doz' engraved in silver letters.", 
+        "keywords": [
+          "golden", 
+          "helmet"
+        ]
+      }
+    ], 
+    "id": 3313, 
+    "long_desc": "A golden helmet is lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "a golden helmet", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "golden", 
+      "sleeves"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "These sleeves are made of gold and they have the name 'Doz' engraved in\nsilver letters on them.", 
+        "keywords": [
+          "golden", 
+          "sleeves"
+        ]
+      }
+    ], 
+    "id": 3314, 
+    "long_desc": "A pair of golden sleeves is lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "a pair of golden sleeves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [
+      {
+        "location": 17, 
+        "note": "AC", 
+        "value": -10
+      }
+    ], 
+    "aliases": [
+      "golden", 
+      "cloak"
+    ], 
+    "cost": 0, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "This cloak is woven from the finest threads of gold, and it shimmers as you\nlook at it. You find the name 'Doz' written on the inside of it.", 
+        "keywords": [
+          "golden", 
+          "cloak"
+        ]
+      }
+    ], 
+    "id": 3315, 
+    "long_desc": "A golden cloak is lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "a golden cloak", 
+    "type": {
+      "note": "OTHER", 
+      "value": 12
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ABOUT", 
+        "value": 1024
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "golden", 
+      "shield"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This shield is made of gold and it's covered with strange silver runes\nwhich you guess must be of protection. The name 'Doz' is also to be found\non the shield.", 
+        "keywords": [
+          "golden", 
+          "shield"
+        ]
+      }
+    ], 
+    "id": 3316, 
+    "long_desc": "A golden shield is lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "a golden shield", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_SHIELD", 
+        "value": 512
+      }
+    ], 
+    "weight": 15
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "golden", 
+      "gauntlets"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "These gauntlets are made of gold and they have the name 'Doz' engraved in\nsilver letters on them.", 
+        "keywords": [
+          "golden", 
+          "gauntlets"
+        ]
+      }
+    ], 
+    "id": 3317, 
+    "long_desc": "A pair of golden gauntlets is lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "a pair of golden gauntlets", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "golden", 
+      "leggings"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "These leggings are made of solid gold, and the name 'Doz' is engraved in\nsilver letters on them.", 
+        "keywords": [
+          "golden", 
+          "leggings"
+        ]
+      }
+    ], 
+    "id": 3318, 
+    "long_desc": "A pair of golden leggings is lying on the ground.", 
+    "rent": 1000000, 
+    "short_desc": "a pair of golden leggings", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coke", 
+      "machine"
+    ], 
+    "cost": 3000, 
+    "effects": [
+      {
+        "note": "HUM", 
+        "value": 2
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a big old-fashioned thing that most of all resembles a cupboard with a\nslot large enough to hold three cans of Coke at once.  It doesn't appear to\nhave any buttons or any other means of control.  Golden letters on its front\ntell that this is a Quifatronic K-1000 mk I.", 
+        "keywords": [
+          "coke", 
+          "machine"
+        ]
+      }
+    ], 
+    "id": 3319, 
+    "long_desc": "A Coke machine is standing here.", 
+    "rent": 300, 
+    "short_desc": "a Coke machine", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      3, 
+      0, 
+      -1, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "can", 
+      "coke"
+    ], 
+    "cost": 6, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small red and white can that has 'Keep MudLand tidy' written on its\nside and the name Doz printed on its bottom.", 
+        "keywords": [
+          "can", 
+          "coke"
+        ]
+      }
+    ], 
+    "id": 3320, 
+    "long_desc": "A can of Coke been left here.", 
+    "rent": 3, 
+    "short_desc": "a can of Coke", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      3, 
+      3, 
+      15, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "iron"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_mapmaker"
+        ]
+      }, 
+      {
+        "desc": "The small iron key has the letter \"M\" inscribed on its surface.", 
+        "keywords": [
+          "key", 
+          "iron"
+        ]
+      }
+    ], 
+    "id": 3321, 
+    "long_desc": "A small iron key has been dropped here.", 
+    "rent": 100, 
+    "short_desc": "an iron key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coke", 
+      "machine"
+    ], 
+    "cost": 3000, 
+    "effects": [
+      {
+        "note": "HUM", 
+        "value": 2
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a big old-fashioned thing that most of all resembles a cupboard with a\nslot large enough to hold three cans of Coke at once.  It doesn't appear to\nhave any buttons or any other means of control.  Golden letters on its front\ntell that this is a Quifatronic K-1000 mk I.", 
+        "keywords": [
+          "coke", 
+          "machine"
+        ]
+      }
+    ], 
+    "id": 3322, 
+    "long_desc": "A Coke machine is standing here.", 
+    "rent": 300, 
+    "short_desc": "a Coke machine", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      3, 
+      0, 
+      -1, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "can", 
+      "coke"
+    ], 
+    "cost": 6, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small red and white can that has 'Keep MudLand tidy' written on its\nside and the name Mapmaker printed on its bottom.", 
+        "keywords": [
+          "can", 
+          "coke"
+        ]
+      }
+    ], 
+    "id": 3323, 
+    "long_desc": "A can of Coke been left here.", 
+    "rent": 3, 
+    "short_desc": "a can of Coke", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      3, 
+      3, 
+      15, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "candlestick"
+    ], 
+    "cost": 150, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a rather old-looking three-armed candlestick made from pewter.  Its\ncandles are a yellowish white colour.", 
+        "keywords": [
+          "candlestick"
+        ]
+      }
+    ], 
+    "id": 3400, 
+    "long_desc": "A pewter candlestick is standing here.", 
+    "rent": 50, 
+    "short_desc": "a candlestick", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      24, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "candlestick"
+    ], 
+    "cost": 150, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a rather old-looking three-armed candlestick made from pewter.  Its\ncandles are a yellowish white colour.", 
+        "keywords": [
+          "candlestick"
+        ]
+      }
+    ], 
+    "id": 3600, 
+    "long_desc": "A pewter candlestick is standing here.", 
+    "rent": 50, 
+    "short_desc": "a candlestick", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      24, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "brandy", 
+      "bottle"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The bottle is a special 'Dragon Blood' brandy bottle.  Its neck is shaped\nlike a small dragon's head.  Bottles like these are often worth a small\namount money, even when empty.", 
+        "keywords": [
+          "brandy", 
+          "bottle"
+        ]
+      }
+    ], 
+    "id": 3601, 
+    "long_desc": "A brandy bottle is lying here.", 
+    "rent": 10, 
+    "short_desc": "a brandy bottle", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      10, 
+      10, 
+      5, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "brandy", 
+      "bottle"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The bottle is a special 'Dragon Blood' brandy bottle.  Its neck is shaped\nlike a small dragon's head.  Bottles like these are often worth some money,\neven when empty.", 
+        "keywords": [
+          "brandy", 
+          "bottle"
+        ]
+      }
+    ], 
+    "id": 3602, 
+    "long_desc": "A brandy bottle is lying here.", 
+    "rent": 10, 
+    "short_desc": "a brandy bottle", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      10, 
+      0, 
+      5, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wheelbarrow"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a heavy wheelbarrow made from solid oaken planks that have been painted\na dark, green colour.", 
+        "keywords": [
+          "wheelbarrow"
+        ]
+      }
+    ], 
+    "id": 3603, 
+    "long_desc": "A green-painted wheelbarrow is standing here.", 
+    "rent": 100, 
+    "short_desc": "a wheelbarrow", 
+    "type": {
+      "note": "BOAT", 
+      "value": 22
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shovel"
+    ], 
+    "cost": 30, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a large metal shovel with a solid wooden handle.", 
+        "keywords": [
+          "shovel"
+        ]
+      }
+    ], 
+    "id": 3604, 
+    "long_desc": "A shovel is lying here.", 
+    "rent": 10, 
+    "short_desc": "a shovel", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      5, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "rake"
+    ], 
+    "cost": 30, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a large metal rake with a solid wooden handle.", 
+        "keywords": [
+          "rake"
+        ]
+      }
+    ], 
+    "id": 3605, 
+    "long_desc": "A rake is lying here.", 
+    "rent": 10, 
+    "short_desc": "a rake", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      4, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "skeleton"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The dusty bones are almost brown.  It must have been buried for very long\ntime.", 
+        "keywords": [
+          "skeleton"
+        ]
+      }
+    ], 
+    "id": 3610, 
+    "long_desc": "A dusty skeleton lies here.", 
+    "rent": 0, 
+    "short_desc": "a dusty skeleton", 
+    "type": {
+      "note": null, 
+      "value": 0
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 15
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "amethyst", 
+      "gem"
+    ], 
+    "cost": 200, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It has a very deep purple colour.", 
+        "keywords": [
+          "amethyst"
+        ]
+      }
+    ], 
+    "id": 3611, 
+    "long_desc": "A large, beautifully polished amethyst has been left here.", 
+    "rent": 40, 
+    "short_desc": "a amethyst", 
+    "type": {
+      "note": "TREASURE", 
+      "value": 8
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "pendant", 
+      "silver"
+    ], 
+    "cost": 400, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It resembles Thor's hammer and appears to be made of solid silver.", 
+        "keywords": [
+          "pendant", 
+          "silver"
+        ]
+      }
+    ], 
+    "id": 3612, 
+    "long_desc": "A silver pendant has been left here.", 
+    "rent": 80, 
+    "short_desc": "a silver pendant", 
+    "type": {
+      "note": "TREASURE", 
+      "value": 8
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_NECK", 
+        "value": 4
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "action_desc": "pierce", 
+    "affects": [
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": 1
+      }
+    ], 
+    "aliases": [
+      "dagger", 
+      "silver"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It has a long, sharp blade that is made entirely from silver.  A small rune\nhas been engraved on the blade next to the hilt.", 
+        "keywords": [
+          "dagger", 
+          "silver"
+        ]
+      }
+    ], 
+    "id": 3613, 
+    "long_desc": "A long silver dagger is lying here.", 
+    "rent": 20, 
+    "short_desc": "a silver dagger", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      4, 
+      11
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [
+      {
+        "location": 1, 
+        "note": "STR", 
+        "value": -2
+      }
+    ], 
+    "aliases": [
+      "ring", 
+      "yellow", 
+      "green"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It feels heavy.", 
+        "keywords": [
+          "ring"
+        ]
+      }
+    ], 
+    "id": 4000, 
+    "long_desc": "A ring, with yellow and green ornamentation. It looks very old.", 
+    "rent": 20, 
+    "short_desc": "a yellow and green ring", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FINGER", 
+        "value": 2
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "corpse"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 4001, 
+    "long_desc": "A halfways decayed corpse of a goblin.", 
+    "rent": 500, 
+    "short_desc": "a corpse", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      1, 
+      0, 
+      -1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coins"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 4002, 
+    "long_desc": "A small pile of coins.", 
+    "rent": 0, 
+    "short_desc": "some coins", 
+    "type": {
+      "note": "MONEY", 
+      "value": 20
+    }, 
+    "values": [
+      500, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "potion", 
+      "purple"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It looks rather strange!", 
+        "keywords": [
+          "potion", 
+          "purple"
+        ]
+      }
+    ], 
+    "id": 4050, 
+    "long_desc": "A purple potion is here.", 
+    "rent": 200, 
+    "short_desc": "a purple potion", 
+    "type": {
+      "note": "POTION", 
+      "value": 10
+    }, 
+    "values": [
+      17, 
+      14, 
+      36, 
+      33
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [
+      {
+        "location": 24, 
+        "note": "SAVING_SPELL", 
+        "value": -2
+      }, 
+      {
+        "location": 23, 
+        "note": "SAVING_BREATH", 
+        "value": -2
+      }
+    ], 
+    "aliases": [
+      "helmet", 
+      "metal"
+    ], 
+    "cost": 3000, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It looks somehow magical!.", 
+        "keywords": [
+          "helmet", 
+          "metal"
+        ]
+      }
+    ], 
+    "id": 4051, 
+    "long_desc": "A metal helmet in here.", 
+    "rent": 1000, 
+    "short_desc": "a metal helmet", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "mushroom"
+    ], 
+    "cost": 9, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Let's put it this way - I wouldn't eat it !", 
+        "keywords": [
+          "mushroom"
+        ]
+      }
+    ], 
+    "id": 4052, 
+    "long_desc": "A small mushroom is here.", 
+    "rent": 3, 
+    "short_desc": "a mushroom", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "scroll", 
+      "ysafg"
+    ], 
+    "cost": 1500, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It looks informative.", 
+        "keywords": [
+          "scroll"
+        ]
+      }
+    ], 
+    "id": 4102, 
+    "long_desc": "A scroll which reads \"ysafg\", it looks very fragile and quite old.", 
+    "rent": 500, 
+    "short_desc": "a scroll which reads \"ysafg\"", 
+    "type": {
+      "note": "SCROLL", 
+      "value": 2
+    }, 
+    "values": [
+      1, 
+      53, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "slime", 
+      "mold"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It wasn't mend to be food, - Certainly not for humans.", 
+        "keywords": [
+          "smile", 
+          "mold"
+        ]
+      }
+    ], 
+    "id": 4103, 
+    "long_desc": "A green slime mold is here. Stinks like sh**.", 
+    "rent": 8, 
+    "short_desc": "a green slime mold", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      24, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "slime", 
+      "mold"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It wasn't mend to be food, - Certainly not for humans.", 
+        "keywords": [
+          "smile", 
+          "mold"
+        ]
+      }
+    ], 
+    "id": 4104, 
+    "long_desc": "A green slime mold is here. Stinks like sh**.", 
+    "rent": 8, 
+    "short_desc": "a green slime mold", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      24, 
+      0, 
+      0, 
+      1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "black", 
+      "potion"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It looks healthy.", 
+        "keywords": [
+          "potion", 
+          "black"
+        ]
+      }
+    ], 
+    "id": 4150, 
+    "long_desc": "A thick black potion is here.", 
+    "rent": 35, 
+    "short_desc": "a black potion", 
+    "type": {
+      "note": "POTION", 
+      "value": 10
+    }, 
+    "values": [
+      15, 
+      15, 
+      -1, 
+      -1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "staff", 
+      "oak"
+    ], 
+    "cost": 3000, 
+    "effects": [
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "You see it has some sort of runes on it.", 
+        "keywords": [
+          "staff", 
+          "oak"
+        ]
+      }, 
+      {
+        "desc": "The runes says : Funthark.", 
+        "keywords": [
+          "runes"
+        ]
+      }
+    ], 
+    "id": 4151, 
+    "long_desc": "A ancient heavy oak staff is here.", 
+    "rent": 1000, 
+    "short_desc": "a heavy oak staff", 
+    "type": {
+      "note": "STAFF", 
+      "value": 4
+    }, 
+    "values": [
+      15, 
+      4, 
+      2, 
+      27
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "dagger", 
+      "light", 
+      "silver"
+    ], 
+    "cost": 6000, 
+    "effects": [
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It looks like an exelent tool for theives.", 
+        "keywords": [
+          "dagger", 
+          "light", 
+          "silver"
+        ]
+      }
+    ], 
+    "id": 4152, 
+    "long_desc": "A light silver dagger is here.", 
+    "rent": 2000, 
+    "short_desc": "a light silver dagger", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      2, 
+      5, 
+      11
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "herbs", 
+      "herb", 
+      "timian"
+    ], 
+    "cost": 5, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This herb smells rather spicy, maybe you should try it ?", 
+        "keywords": [
+          "herbs", 
+          "herb", 
+          "timian"
+        ]
+      }
+    ], 
+    "id": 5000, 
+    "long_desc": "Some herbs is lying here, small green leaves and tiny pink flowers.", 
+    "rent": 1, 
+    "short_desc": "a small dusk of timian herbs", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "plant", 
+      "ivy"
+    ], 
+    "cost": 5, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 5002, 
+    "long_desc": "Some poison ivy is growing here.", 
+    "rent": 100, 
+    "short_desc": "a small dusk of poison ivy", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "blood", 
+      "jar"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The jar is made of dry clay, covered with markings suggesting it's\noccult origin.", 
+        "keywords": [
+          "blood", 
+          "jar"
+        ]
+      }
+    ], 
+    "id": 5003, 
+    "long_desc": "A small jar in a dark, red colour.", 
+    "rent": 10, 
+    "short_desc": "a dark red jar", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      2, 
+      2, 
+      13, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wild", 
+      "flowers"
+    ], 
+    "cost": 10, 
+    "effects": [
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [], 
+    "id": 5004, 
+    "long_desc": "A bunch of pretty wild flowers is here.", 
+    "rent": 50, 
+    "short_desc": "wild flowers", 
+    "type": {
+      "note": "WORN", 
+      "value": 11
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "water", 
+      "skin", 
+      "waterskin"
+    ], 
+    "cost": 60, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The waterskin is made of carved leather.\nIt looks as if it's of fair quality.", 
+        "keywords": [
+          "water", 
+          "skin", 
+          "waterskin"
+        ]
+      }
+    ], 
+    "id": 5005, 
+    "long_desc": "A waterskin is lying on the ground here.", 
+    "rent": 25, 
+    "short_desc": "a waterskin", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      20, 
+      20, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 23
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "jerkey", 
+      "beef"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 5006, 
+    "long_desc": "A slice of beef jerkey has been left here.", 
+    "rent": 5, 
+    "short_desc": "a beef jerkey", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      18, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 3
+  }, 
+  {
+    "affects": [
+      {
+        "location": 21, 
+        "note": "SAVING_ROD", 
+        "value": 5
+      }
+    ], 
+    "aliases": [
+      "amulet"
+    ], 
+    "cost": 500, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "NODROP", 
+        "value": 128
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "Judging from the signs inscripted in the amulet, you gather it must\nhave belonged to a druid.\nIt is weird looking with symbols from nature dominating it.", 
+        "keywords": [
+          "amulet"
+        ]
+      }
+    ], 
+    "id": 5007, 
+    "long_desc": "A strange looking amulet is lying here, half covered with dust.", 
+    "rent": 300, 
+    "short_desc": "a strange amulet", 
+    "type": {
+      "note": "WORN", 
+      "value": 11
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_NECK", 
+        "value": 4
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "staff", 
+      "stick"
+    ], 
+    "cost": 15, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Then staff is about 5 ft long, engraved with mythical signs and figures.\nOtherwise the staff seems of no real interrest.", 
+        "keywords": [
+          "staff", 
+          "stick"
+        ]
+      }
+    ], 
+    "id": 5008, 
+    "long_desc": "A staff with druidic marks have been left here.", 
+    "rent": 5, 
+    "short_desc": "a druish staff", 
+    "type": {
+      "note": "OTHER", 
+      "value": 12
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "rabbit", 
+      "roast", 
+      "wabbit"
+    ], 
+    "cost": 40, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Well the rabbit looks rather dead.\nYou guess that this once was a ferocious rabbit who's life now has\nchanged to that of a tasty wabbit woast.", 
+        "keywords": [
+          "roast", 
+          "rabbit", 
+          "wabbit"
+        ]
+      }
+    ], 
+    "id": 5009, 
+    "long_desc": "You see a deliciously looking rabbit roast.", 
+    "rent": 10, 
+    "short_desc": "a rabbit roast", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      24, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "template", 
+      "scroll"
+    ], 
+    "cost": 15000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The template is made of an exotic green metal and looks\ncenturies old.\nInscriped upon is the words 'Ep ep fi'hur G'harne\n                             G'harne fhtagn Shudde-M'ell hyas Negg'h'\nAnd beneath the inscription you see horrifying death scenes depicted.", 
+        "keywords": [
+          "template", 
+          "scroll", 
+          "metal"
+        ]
+      }
+    ], 
+    "id": 5010, 
+    "long_desc": "A strange template made of an exotic green metal is placed here", 
+    "rent": 5000, 
+    "short_desc": "a strange template", 
+    "type": {
+      "note": "SCROLL", 
+      "value": 2
+    }, 
+    "values": [
+      15, 
+      38, 
+      4, 
+      26
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "potion", 
+      "clear"
+    ], 
+    "cost": 2500, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "As you examine the potion more, you notice the oddities of this\npotion. When you look through it you notice strange things...\nThe clear potion is certainly not of this world.", 
+        "keywords": [
+          "potion", 
+          "clear"
+        ]
+      }
+    ], 
+    "id": 5011, 
+    "long_desc": "A clear potion wrapped in leather is unnoticed placed here.", 
+    "rent": 500, 
+    "short_desc": "a clear potion", 
+    "type": {
+      "note": "POTION", 
+      "value": 10
+    }, 
+    "values": [
+      20, 
+      18, 
+      19, 
+      20
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "scroll", 
+      "jhyfrdow"
+    ], 
+    "cost": 500, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The scroll is titled 'jhyfrdow' and looks very old.\nAs you examine it closer you notice primitive drawings of\nmen doing some kind of a ritual.", 
+        "keywords": [
+          "scroll", 
+          "jhyfrdow"
+        ]
+      }, 
+      {
+        "desc": "The drawing pictures people gathered round giant stone formations,\nworshipping a giant worm like creature.\nIt seems they are sacrificing some of their own species.", 
+        "keywords": [
+          "ritual", 
+          "men", 
+          "drawings"
+        ]
+      }
+    ], 
+    "id": 5012, 
+    "long_desc": "An odd looking scroll is here.", 
+    "rent": 200, 
+    "short_desc": "a scroll titled 'jhyfrdow'", 
+    "type": {
+      "note": "SCROLL", 
+      "value": 2
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "action_desc": "chop", 
+    "affects": [], 
+    "aliases": [
+      "axe", 
+      "lumber"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a heavy axe of the kind lumberjacks use to chop down trees.", 
+        "keywords": [
+          "axe", 
+          "lumber"
+        ]
+      }
+    ], 
+    "id": 6000, 
+    "long_desc": "A heavy lumber axe lies here.", 
+    "rent": 15, 
+    "short_desc": "a lumber axe", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      2, 
+      4, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shirt"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is an extra large, chequered shirt made from heavy cloth.", 
+        "keywords": [
+          "shirt"
+        ]
+      }
+    ], 
+    "id": 6001, 
+    "long_desc": "A chequered shirt lies here.", 
+    "rent": 8, 
+    "short_desc": "a chequered shirt", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots"
+    ], 
+    "cost": 60, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "They are fashioned from rough leather that has been oiled frequently to make\nit stay waterproof.  They look worn but quite functional.", 
+        "keywords": [
+          "boots"
+        ]
+      }
+    ], 
+    "id": 6002, 
+    "long_desc": "A pair of leather boots lies here.", 
+    "rent": 20, 
+    "short_desc": "a pair of leather boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "fireplace"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is fashioned from stones of various sizes that have been stacked on top of\neach other and fastened with mortar.  Its chimney is constructed likewise and\nleads the smoke out through the low cabin ceiling.", 
+        "keywords": [
+          "fireplace"
+        ]
+      }
+    ], 
+    "id": 6003, 
+    "long_desc": "A fireplace made from stone is set against the east wall.", 
+    "rent": 0, 
+    "short_desc": "a fireplace", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      200, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "lantern"
+    ], 
+    "cost": 60, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a large and robust but somewhat battered oil lantern made from brass,\nand it is equipped with a handle to make it handy and a hood to protect its\nflame.  Some letters have been scratched on its bottom.", 
+        "keywords": [
+          "lantern"
+        ]
+      }, 
+      {
+        "desc": "They say, \"Use 'hold lantern' to activate.\"", 
+        "keywords": [
+          "letters"
+        ]
+      }
+    ], 
+    "id": 6004, 
+    "long_desc": "A hooded brass lantern has been left here.", 
+    "rent": 20, 
+    "short_desc": "a hooded brass lantern", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      100, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "chest"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a robust chest made from short, heavy planks that have been fastened\ntogether with tenons.  It is equipped with a simple brass lock.", 
+        "keywords": [
+          "chest"
+        ]
+      }
+    ], 
+    "id": 6005, 
+    "long_desc": "A wooden chest stands in the corner.", 
+    "rent": 30, 
+    "short_desc": "a wooden chest", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      100, 
+      8, 
+      6006, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small, simple brass key with no inscriptions or marks of any kind.", 
+        "keywords": [
+          "key"
+        ]
+      }
+    ], 
+    "id": 6006, 
+    "long_desc": "A small brass key lies here.", 
+    "rent": 4, 
+    "short_desc": "a small brass key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      6005, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coins", 
+      "gold"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The coins seem to be gold.  They are obviously valuable.", 
+        "keywords": [
+          "coins"
+        ]
+      }
+    ], 
+    "id": 6007, 
+    "long_desc": "Some gold coins lie piled up in a heap on the floor.", 
+    "rent": 0, 
+    "short_desc": "a heap of gold coins", 
+    "type": {
+      "note": "MONEY", 
+      "value": 20
+    }, 
+    "values": [
+      100, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "blackberries"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "They look very tasty indeed.", 
+        "keywords": [
+          "blackberries"
+        ]
+      }
+    ], 
+    "id": 6010, 
+    "long_desc": "Some blackberries grow on a bush nearby.", 
+    "rent": 10, 
+    "short_desc": "some blackberries", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "mushroom"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a tasty little thing.", 
+        "keywords": [
+          "mushroom"
+        ]
+      }
+    ], 
+    "id": 6011, 
+    "long_desc": "A small mushroom grows nearby.", 
+    "rent": 10, 
+    "short_desc": "a mushroom", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sign"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Not the most interesting pole in the world.\nBetter leave it here, though, as it holds the sign in place.", 
+        "keywords": [
+          "pole"
+        ]
+      }, 
+      {
+        "desc": "It says :-\n\n                         Haon-Dor\n                         --------\n\n This is the Forest of Haon-Dor.  Enter at your own risk.\n     Please report any strange occurrences to Quifael.\n", 
+        "keywords": [
+          "sign"
+        ]
+      }
+    ], 
+    "id": 6012, 
+    "long_desc": "A large sign mounted on a pole is standing by the roadside.", 
+    "rent": 0, 
+    "short_desc": "a large sign", 
+    "type": {
+      "note": null, 
+      "value": 0
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "water", 
+      "barrel"
+    ], 
+    "cost": 60, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 6013, 
+    "long_desc": "A water barrel has been left here.", 
+    "rent": 20, 
+    "short_desc": "the barrel", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      50, 
+      50, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 65
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sign"
+    ], 
+    "cost": 2, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Only some of the letters are legible :-\n                _\n      _________| |_________\n     /         | |         \\\n    /  CAR.AX  | |  M.STY   \\\n    \\  M..SI.N | |  SW..P   /\n     \\_________| |_________/\n               | |", 
+        "keywords": [
+          "sign"
+        ]
+      }
+    ], 
+    "id": 6101, 
+    "long_desc": "An old, battered sign lies on the ground.", 
+    "rent": 2, 
+    "short_desc": "a sign", 
+    "type": {
+      "note": null, 
+      "value": 0
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "tree", 
+      "opening"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This enourmous tree must be a thousand years old.  Its rough bark looks grey\nand pale and is decorated with scratches and clawmarks.  On its west side is a\nsmall opening just above ground level.", 
+        "keywords": [
+          "tree"
+        ]
+      }, 
+      {
+        "desc": "The opening is far too narrow for you to squeeze through but it looks as if the\ntree is hollow.", 
+        "keywords": [
+          "opening"
+        ]
+      }
+    ], 
+    "id": 6102, 
+    "long_desc": "A colossal tree blocks the way westwards.", 
+    "rent": 0, 
+    "short_desc": "a colossal tree", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      1000, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "branch"
+    ], 
+    "cost": 1, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is quite heavy and looks as if it has been dropped from great height.  It is\nlong dead and very dry.  Could probably be lighted quite easily.", 
+        "keywords": [
+          "branch"
+        ]
+      }
+    ], 
+    "id": 6103, 
+    "long_desc": "A long, grey branch rests heavily on the ground.", 
+    "rent": 3, 
+    "short_desc": "a long, grey branch", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      25, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "action_desc": "pound", 
+    "affects": [
+      {
+        "location": 18, 
+        "note": "HITROLL", 
+        "value": -2
+      }
+    ], 
+    "aliases": [
+      "branch"
+    ], 
+    "cost": 60, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is very heavy and looks as if it has been dropped from great height.  It is\nlong and straight and the wood is very hard, still being full of sap.  Although\nit does not fit very well in your hand, it could be used as a clumsy but very\nheavy weapon.", 
+        "keywords": [
+          "branch"
+        ]
+      }
+    ], 
+    "id": 6104, 
+    "long_desc": "A long, grey branch rests heavily on the ground.", 
+    "rent": 20, 
+    "short_desc": "a long, grey branch", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      2, 
+      5, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 30
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "branch"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is very heavy and looks as if it has been dropped from great height.  It is\nsomewhat twisted and the hard wood is still full of sap.", 
+        "keywords": [
+          "branch"
+        ]
+      }
+    ], 
+    "id": 6105, 
+    "long_desc": "A long, grey branch rests heavily on the ground.", 
+    "rent": 0, 
+    "short_desc": "a long, grey branch", 
+    "type": {
+      "note": null, 
+      "value": 0
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "toadstool"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a large, brown boletus that must weigh nearly five pounds.  The top\nsurface is covered in a thin layer of transparent slime that emits a weak,\nmusty smell.  Not the most delicious thing you have seen.", 
+        "keywords": [
+          "toadstool"
+        ]
+      }
+    ], 
+    "id": 6106, 
+    "long_desc": "A large toadstool grows nearby.", 
+    "rent": 20, 
+    "short_desc": "a toadstool", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      12, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "toadstool"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a large, brown boletus that must weigh nearly five pounds.  It has small\nwhite spots and the top surface is covered in a thin layer of transparent slime\nthat emits a weak, musty smell.  Not the most delicious thing you have seen.", 
+        "keywords": [
+          "toadstool"
+        ]
+      }
+    ], 
+    "id": 6107, 
+    "long_desc": "A large toadstool grows nearby.", 
+    "rent": 20, 
+    "short_desc": "a toadstool", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      12, 
+      0, 
+      0, 
+      1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coins", 
+      "gold"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 6108, 
+    "long_desc": "A big pile of gold coins is lying here.", 
+    "rent": 0, 
+    "short_desc": "a big pile of gold coins", 
+    "type": {
+      "note": "MONEY", 
+      "value": 20
+    }, 
+    "values": [
+      10000, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "potion", 
+      "blue"
+    ], 
+    "cost": 1000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It has a nice sky blue colour and a smell like peppermint.", 
+        "keywords": [
+          "potion", 
+          "blue"
+        ]
+      }
+    ], 
+    "id": 6109, 
+    "long_desc": "A blue potion has been left here.", 
+    "rent": 300, 
+    "short_desc": "a blue potion", 
+    "type": {
+      "note": "POTION", 
+      "value": 10
+    }, 
+    "values": [
+      15, 
+      28, 
+      -1, 
+      -1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "potion", 
+      "yellow"
+    ], 
+    "cost": 1000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It has a deep yellow colour and and a strong spicy smell.", 
+        "keywords": [
+          "potion", 
+          "yellow"
+        ]
+      }
+    ], 
+    "id": 6110, 
+    "long_desc": "A yellow potion has been left here.", 
+    "rent": 300, 
+    "short_desc": "a yellow potion", 
+    "type": {
+      "note": "POTION", 
+      "value": 10
+    }, 
+    "values": [
+      15, 
+      39, 
+      -1, 
+      -1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shield", 
+      "large"
+    ], 
+    "cost": 300, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is made from hard wood that has been reinforced with heavy iron bands.", 
+        "keywords": [
+          "shield", 
+          "large"
+        ]
+      }
+    ], 
+    "id": 6111, 
+    "long_desc": "A large round shield has been left here.", 
+    "rent": 100, 
+    "short_desc": "a large round shield", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      5, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_SHIELD", 
+        "value": 512
+      }
+    ], 
+    "weight": 15
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "crown", 
+      "iron"
+    ], 
+    "cost": 5000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a heavy human-sized crown made from solid iron.", 
+        "keywords": [
+          "crown", 
+          "iron"
+        ]
+      }
+    ], 
+    "id": 6112, 
+    "long_desc": "An iron crown rests on the ground.", 
+    "rent": 1500, 
+    "short_desc": "an iron crown", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sceptre", 
+      "iron"
+    ], 
+    "cost": 5000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a heavy sceptre made from solid iron.", 
+        "keywords": [
+          "sceptre", 
+          "iron"
+        ]
+      }
+    ], 
+    "id": 6113, 
+    "long_desc": "An iron sceptre lies on the ground.", 
+    "rent": 1500, 
+    "short_desc": "an iron sceptre", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      -1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "ring", 
+      "iron"
+    ], 
+    "cost": 5000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a quite heavy human-sized ring made from solid iron.  It lacks\ndecorations of any kind.", 
+        "keywords": [
+          "ring", 
+          "iron"
+        ]
+      }
+    ], 
+    "id": 6114, 
+    "long_desc": "An iron ring has been left here.", 
+    "rent": 1500, 
+    "short_desc": "an iron ring", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FINGER", 
+        "value": 2
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "action_desc": "chop", 
+    "affects": [
+      {
+        "location": 18, 
+        "note": "HITROLL", 
+        "value": 2
+      }, 
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": 2
+      }
+    ], 
+    "aliases": [
+      "optimizer"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a very unpredictable piece of software, consisting mostly of\nself-modifying code and inexcusable goto commands.  Looks very dangerous.", 
+        "keywords": [
+          "optimizer"
+        ]
+      }
+    ], 
+    "id": 6900, 
+    "long_desc": "Quifael's global optimizer has been left here.", 
+    "rent": 10000, 
+    "short_desc": "Quifael's global optimizer", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      3, 
+      6, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shirt", 
+      "scale"
+    ], 
+    "cost": 10000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a sleeveless shirt made from big, black dragon scales joined with silver\nthreads.  Its inside has been made from the soft skin on the dragon's belly,\nmaking it very comfortable to wear.  The name \"Isha\" has been engraved on one\nof the scales.", 
+        "keywords": [
+          "shirt", 
+          "scale"
+        ]
+      }
+    ], 
+    "id": 6910, 
+    "long_desc": "A black dragon scale shirt has been left here.", 
+    "rent": 3000, 
+    "short_desc": "a black dragon scale shirt", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "skirt", 
+      "scale"
+    ], 
+    "cost": 5000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a short skirt made from big, black dragon scales joined with silver\nthreads.  Its inside has been made from the soft skin on the dragon's belly,\nmaking it very comfortable to wear.  The name \"Isha\" has been engraved on one\nof the scales.", 
+        "keywords": [
+          "skirt", 
+          "scale"
+        ]
+      }
+    ], 
+    "id": 6911, 
+    "long_desc": "A black dragon scale skirt has been left here.", 
+    "rent": 1500, 
+    "short_desc": "a black dragon scale skirt", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [
+      {
+        "location": 23, 
+        "note": "SAVING_BREATH", 
+        "value": -2
+      }
+    ], 
+    "aliases": [
+      "cloak", 
+      "black"
+    ], 
+    "cost": 8000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a heavy, black cloak with a large hood.  The name \"Isha\" is written\ninside it with a silver thread.", 
+        "keywords": [
+          "cloak", 
+          "black"
+        ]
+      }
+    ], 
+    "id": 6912, 
+    "long_desc": "A large, hooded cloak, as dark as the night, has been left here.", 
+    "rent": 3000, 
+    "short_desc": "a black, hooded cloak", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ABOUT", 
+        "value": 1024
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "belt", 
+      "silver"
+    ], 
+    "cost": 5000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a broad belt made from tiny silver rings woven together.", 
+        "keywords": [
+          "belt", 
+          "silver"
+        ]
+      }
+    ], 
+    "id": 6913, 
+    "long_desc": "A broad silver belt has been left here.", 
+    "rent": 1500, 
+    "short_desc": "a broad silver belt", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WAIST", 
+        "value": 2048
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "action_desc": "slash", 
+    "affects": [
+      {
+        "location": 18, 
+        "note": "HITROLL", 
+        "value": 2
+      }, 
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": 2
+      }
+    ], 
+    "aliases": [
+      "sword", 
+      "long", 
+      "slender"
+    ], 
+    "cost": 30000, 
+    "effects": [
+      {
+        "note": "GLOW", 
+        "value": 1
+      }, 
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a long, slender sword that seems to be made from silver.  The name\n\"Isha\" has been engraved on the hilt.", 
+        "keywords": [
+          "sword", 
+          "long", 
+          "slender"
+        ]
+      }
+    ], 
+    "id": 6914, 
+    "long_desc": "A long, slender sword lies on the ground.", 
+    "rent": 10000, 
+    "short_desc": "a long, slender sword", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      3, 
+      6, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coffee", 
+      "machine"
+    ], 
+    "cost": 3000, 
+    "effects": [
+      {
+        "note": "HUM", 
+        "value": 2
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a big old-fashioned thing that most of all resembles a cupboard with a\nslot large enough to hold three coffee cups at once.  It doesn't appear to\nhave any buttons or any other means of control.  Golden letters on its front\ntell that this is a Quifatronic C-1000 mk I.", 
+        "keywords": [
+          "coffee", 
+          "machine"
+        ]
+      }
+    ], 
+    "id": 6950, 
+    "long_desc": "A coffee machine is standing here.", 
+    "rent": 300, 
+    "short_desc": "a coffee machine", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      3, 
+      0, 
+      -1, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "coffee", 
+      "cup"
+    ], 
+    "cost": 6, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small white throwaway cup that has 'Keep MudLand tidy' written on its\nside and 'Quifatronic C-1000 mk I' on its bottom.", 
+        "keywords": [
+          "coffee", 
+          "cup"
+        ]
+      }
+    ], 
+    "id": 6951, 
+    "long_desc": "A coffee cup has been left here.", 
+    "rent": 3, 
+    "short_desc": "a coffee cup", 
+    "type": {
+      "note": "DRINKCON", 
+      "value": 17
+    }, 
+    "values": [
+      3, 
+      3, 
+      12, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "action_desc": "reaps", 
+    "affects": [], 
+    "aliases": [
+      "scythe"
+    ], 
+    "cost": 30000, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a very heavy scythe.  The grey handle is made from hard wood and the long\niron blade is completely smooth from countless years of use.  It feels cold to\nthe touch.", 
+        "keywords": [
+          "scythe"
+        ]
+      }
+    ], 
+    "id": 6999, 
+    "long_desc": "The Scythe of Death rests heavily on the ground.", 
+    "rent": 10000, 
+    "short_desc": "the Scythe of Death", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      100, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "waybread", 
+      "food"
+    ], 
+    "cost": 50, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The waybread is the traditional feed of elves when travelling, they call it\nlembas.  It is said to refresh the weary traveler greatly.", 
+        "keywords": [
+          "waybread"
+        ]
+      }
+    ], 
+    "id": 7090, 
+    "long_desc": "Some waybread has been put here.", 
+    "rent": 50, 
+    "short_desc": "a waybread", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      24, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [
+      {
+        "location": 17, 
+        "note": "AC", 
+        "value": -10
+      }, 
+      {
+        "location": 18, 
+        "note": "HITROLL", 
+        "value": -18
+      }
+    ], 
+    "aliases": [
+      "ring", 
+      "silver", 
+      "silverring"
+    ], 
+    "cost": 46, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [], 
+    "id": 7190, 
+    "long_desc": "A lovely silverring has been left here.", 
+    "rent": 10000, 
+    "short_desc": "a glinting ring of silver", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      10, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FINGER", 
+        "value": 2
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [
+      {
+        "location": 3, 
+        "note": "INT", 
+        "value": 5
+      }
+    ], 
+    "aliases": [
+      "ring", 
+      "gold", 
+      "goldring"
+    ], 
+    "cost": 0, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [], 
+    "id": 7191, 
+    "long_desc": "A shiny goldring has been abandoned here.", 
+    "rent": 1000, 
+    "short_desc": "a golden ring", 
+    "type": {
+      "note": "TRASH", 
+      "value": 13
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FINGER", 
+        "value": 2
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [
+      {
+        "location": 4, 
+        "note": "WIS", 
+        "value": 6
+      }
+    ], 
+    "aliases": [
+      "ring", 
+      "bronze", 
+      "bronzering"
+    ], 
+    "cost": 0, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [], 
+    "id": 7192, 
+    "long_desc": "A shiny bronzering has been abandoned here.", 
+    "rent": 1000, 
+    "short_desc": "a bronze ring", 
+    "type": {
+      "note": "TRASH", 
+      "value": 13
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FINGER", 
+        "value": 2
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [
+      {
+        "location": 2, 
+        "note": "DEX", 
+        "value": 4
+      }
+    ], 
+    "aliases": [
+      "ring", 
+      "brass", 
+      "brassring"
+    ], 
+    "cost": 0, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [], 
+    "id": 7193, 
+    "long_desc": "A shiny brassring has been abandoned here.", 
+    "rent": 1000, 
+    "short_desc": "a brass ring", 
+    "type": {
+      "note": "TRASH", 
+      "value": 13
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FINGER", 
+        "value": 2
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "action_desc": "crush", 
+    "affects": [
+      {
+        "location": 18, 
+        "note": "HITROLL", 
+        "value": 2
+      }, 
+      {
+        "location": 1, 
+        "note": "STR", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "rod", 
+      "devil"
+    ], 
+    "cost": 16000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "This is indeed a mysterious rod.  It is dark black at the base but has four\nvery sharp purple tentacles at the end.", 
+        "keywords": [
+          "devil", 
+          "rod"
+        ]
+      }
+    ], 
+    "id": 7200, 
+    "long_desc": "The mysterious devil rod lies on the floor.", 
+    "rent": 6000, 
+    "short_desc": "the devil rod", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      2, 
+      6, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 6
+  }, 
+  {
+    "action_desc": "crush", 
+    "affects": [
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": 2
+      }
+    ], 
+    "aliases": [
+      "mace", 
+      "large"
+    ], 
+    "cost": 1000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The mace is pretty large with a weight of 10 lbs.  The head is actually four\npurple tentacles tied together.", 
+        "keywords": [
+          "large", 
+          "mace"
+        ]
+      }
+    ], 
+    "id": 7201, 
+    "long_desc": "A large mace lies here.", 
+    "rent": 200, 
+    "short_desc": "the large mace", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      6, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "action_desc": "crush", 
+    "affects": [
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": 1
+      }
+    ], 
+    "aliases": [
+      "mace", 
+      "small"
+    ], 
+    "cost": 600, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "This weapon does look like it does a lot of damage, but then you never know.\nIt consists of a black handle and a purple head.", 
+        "keywords": [
+          "small", 
+          "mace"
+        ]
+      }
+    ], 
+    "id": 7202, 
+    "long_desc": "a small mace has been left here.", 
+    "rent": 100, 
+    "short_desc": "the small mace", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      6, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 6
+  }, 
+  {
+    "affects": [
+      {
+        "location": 24, 
+        "note": "SAVING_SPELL", 
+        "value": 1
+      }, 
+      {
+        "location": 17, 
+        "note": "AC", 
+        "value": -10
+      }
+    ], 
+    "aliases": [
+      "cloak", 
+      "purple"
+    ], 
+    "cost": 5000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "This is a very fine made cloak from an unknown material, in a nice purple\ncolor.", 
+        "keywords": [
+          "cloak", 
+          "purple"
+        ]
+      }
+    ], 
+    "id": 7203, 
+    "long_desc": "A purple cloak lies on the floor.", 
+    "rent": 2500, 
+    "short_desc": "a purple cloak", 
+    "type": {
+      "note": "OTHER", 
+      "value": 12
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_NECK", 
+        "value": 4
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "potion", 
+      "blue"
+    ], 
+    "cost": 100, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "In the flask is a transparent blue liquid.", 
+        "keywords": [
+          "potion", 
+          "blue"
+        ]
+      }
+    ], 
+    "id": 7204, 
+    "long_desc": "A neon blue potion stands on the floor.", 
+    "rent": 200, 
+    "short_desc": "an neon blue potion", 
+    "type": {
+      "note": "POTION", 
+      "value": 10
+    }, 
+    "values": [
+      14, 
+      6, 
+      -1, 
+      -1
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "black"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This little key is made from a black metal of unknown origin.", 
+        "keywords": [
+          "black", 
+          "key"
+        ]
+      }
+    ], 
+    "id": 7205, 
+    "long_desc": "A black key has been left on the floor.", 
+    "rent": 1000, 
+    "short_desc": "a black key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [
+      {
+        "location": 2, 
+        "note": "DEX", 
+        "value": -4
+      }
+    ], 
+    "aliases": [
+      "skull", 
+      "white"
+    ], 
+    "cost": 0, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "NODROP", 
+        "value": 128
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The skull has two small horns in the forehead. You notice some writing on\nthe inside.", 
+        "keywords": [
+          "white", 
+          "skull"
+        ]
+      }, 
+      {
+        "desc": "You read the number '666'.", 
+        "keywords": [
+          "writing", 
+          "text"
+        ]
+      }
+    ], 
+    "id": 7206, 
+    "long_desc": "A strange white skull lies on the floor looking at you.", 
+    "rent": 2500, 
+    "short_desc": "a strange white skull", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 30
+  }, 
+  {
+    "affects": [
+      {
+        "location": 1, 
+        "note": "STR", 
+        "value": 1
+      }
+    ], 
+    "aliases": [
+      "gauntlets", 
+      "muddy"
+    ], 
+    "cost": 60, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "These gauntlets are muddy indeed, however they look very effective.", 
+        "keywords": [
+          "muddy", 
+          "gauntlets"
+        ]
+      }
+    ], 
+    "id": 7207, 
+    "long_desc": "A pair of muddy gauntlets have been thrown away here.", 
+    "rent": 40, 
+    "short_desc": "a pair of muddy gauntlets", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      4, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "stick", 
+      "small", 
+      "light"
+    ], 
+    "cost": 200, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "The small stick does not look interesting at all.  But just as you are going\nto throw it away you notice some small letters.", 
+        "keywords": [
+          "small", 
+          "stick"
+        ]
+      }, 
+      {
+        "desc": "It reads 'Hold me'.", 
+        "keywords": [
+          "letters", 
+          "letter"
+        ]
+      }
+    ], 
+    "id": 7208, 
+    "long_desc": "A small stick lies here.", 
+    "rent": 200, 
+    "short_desc": "a small stick", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      120, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots", 
+      "muddy"
+    ], 
+    "cost": 75, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "", 
+        "keywords": [
+          "The", 
+          "boots", 
+          "are", 
+          "muddy", 
+          "and", 
+          "they", 
+          "look", 
+          "well", 
+          "worn,", 
+          "but", 
+          "also", 
+          "very", 
+          "comfortable."
+        ]
+      }
+    ], 
+    "id": 7209, 
+    "long_desc": "A pair of muddy boots has been dropped here.", 
+    "rent": 100, 
+    "short_desc": "a pair of muddy boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "treasure", 
+      "coins"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This looks like a whole lot of coins.", 
+        "keywords": [
+          "treasure"
+        ]
+      }
+    ], 
+    "id": 7210, 
+    "long_desc": "There is a huge treasure here, looking very valuable.", 
+    "rent": 0, 
+    "short_desc": "a huge treasure", 
+    "type": {
+      "note": "MONEY", 
+      "value": 20
+    }, 
+    "values": [
+      6000, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "action_desc": "stab", 
+    "affects": [], 
+    "aliases": [
+      "sword", 
+      "short"
+    ], 
+    "cost": 60, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This is a very nice little weapon.", 
+        "keywords": [
+          "small", 
+          "sword"
+        ]
+      }
+    ], 
+    "id": 7211, 
+    "long_desc": "There lies a short sword.", 
+    "rent": 20, 
+    "short_desc": "a short sword", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      2, 
+      4, 
+      11
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "action_desc": "slash", 
+    "affects": [
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": 3
+      }
+    ], 
+    "aliases": [
+      "sword", 
+      "bastard"
+    ], 
+    "cost": 1700, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "Quite a heavy weapon, with a pure white hilt.", 
+        "keywords": [
+          "bastard", 
+          "sword"
+        ]
+      }
+    ], 
+    "id": 7212, 
+    "long_desc": "There is a huge bastard sword here.", 
+    "rent": 500, 
+    "short_desc": "a huge bastard sword", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      2, 
+      10, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 18
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "helmet", 
+      "large"
+    ], 
+    "cost": 4500, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "This looks like some heavy protection, for the head of course.", 
+        "keywords": [
+          "large", 
+          "helmet"
+        ]
+      }
+    ], 
+    "id": 7213, 
+    "long_desc": "There is a large helmet on the floor.", 
+    "rent": 1500, 
+    "short_desc": "a large helmet", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      7, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "affects": [
+      {
+        "location": 1, 
+        "note": "STR", 
+        "value": 1
+      }, 
+      {
+        "location": 24, 
+        "note": "SAVING_SPELL", 
+        "value": -2
+      }
+    ], 
+    "aliases": [
+      "helmet", 
+      "caos"
+    ], 
+    "cost": 2300, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "This helmet has mounted some mean looking spikes on the front, moreover it\nlooks like good protection.", 
+        "keywords": [
+          "caos", 
+          "helmet"
+        ]
+      }
+    ], 
+    "id": 7214, 
+    "long_desc": "On the floor is a grand evil-looking caos helmet.", 
+    "rent": 1000, 
+    "short_desc": "a caos helmet", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      6, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 8
+  }, 
+  {
+    "affects": [
+      {
+        "location": 18, 
+        "note": "HITROLL", 
+        "value": 10
+      }, 
+      {
+        "location": 4, 
+        "note": "WIS", 
+        "value": 6
+      }
+    ], 
+    "aliases": [
+      "sabre", 
+      "light"
+    ], 
+    "cost": 1500, 
+    "effects": [
+      {
+        "note": "INVISIBLE", 
+        "value": 32
+      }, 
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "This looks as a sabre out of an wellknown SF-movie.", 
+        "keywords": [
+          "light", 
+          "sabre"
+        ]
+      }
+    ], 
+    "id": 7215, 
+    "long_desc": "On the floor lies a strange looking sabre.", 
+    "rent": 300, 
+    "short_desc": "a light sabre", 
+    "type": {
+      "note": "LIGHT", 
+      "value": 1
+    }, 
+    "values": [
+      0, 
+      0, 
+      -1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "action_desc": "slash", 
+    "affects": [
+      {
+        "location": 17, 
+        "note": "AC", 
+        "value": 15
+      }, 
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": 3
+      }
+    ], 
+    "aliases": [
+      "sword", 
+      "two-handed"
+    ], 
+    "cost": 1800, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "You notice that there has been inscribed some runes and a sort of pattern,\nwhich resembles flames running along the edge.", 
+        "keywords": [
+          "two-handed", 
+          "sword"
+        ]
+      }, 
+      {
+        "desc": "On the blade you can read 'Flame And Strength United Are My Soul Power'.", 
+        "keywords": [
+          "runes"
+        ]
+      }
+    ], 
+    "id": 7216, 
+    "long_desc": "On the floor rests a enormous two-handed sword.", 
+    "rent": 900, 
+    "short_desc": "a two-handed sword", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      3, 
+      4, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 19
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "plate", 
+      "breast"
+    ], 
+    "cost": 25000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "BLESS", 
+        "value": 256
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "On the breast plate you notive a relief of large rose. The metal seems to be\nsome kind of silver or platinium.", 
+        "keywords": [
+          "plate", 
+          "breast"
+        ]
+      }
+    ], 
+    "id": 7217, 
+    "long_desc": "There is a silvery breast plate on the floor.", 
+    "rent": 6000, 
+    "short_desc": "a silvery breast plate", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      8, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 70
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "plates", 
+      "leg"
+    ], 
+    "cost": 12500, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "BLESS", 
+        "value": 256
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "They seem to be made from silver or platinum. You see the outline of a rose.", 
+        "keywords": [
+          "leg", 
+          "plates"
+        ]
+      }
+    ], 
+    "id": 7218, 
+    "long_desc": "On the floor you see some leg plates.", 
+    "rent": 5000, 
+    "short_desc": "some leg plates", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      8, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [
+      {
+        "location": 18, 
+        "note": "HITROLL", 
+        "value": 1
+      }
+    ], 
+    "aliases": [
+      "gloves"
+    ], 
+    "cost": 900, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "BLESS", 
+        "value": 256
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The gloves are made of silver threads.", 
+        "keywords": [
+          "gloves"
+        ]
+      }
+    ], 
+    "id": 7219, 
+    "long_desc": "You can see a pair of gloves on the floor.", 
+    "rent": 1000, 
+    "short_desc": "a pair of gloves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      3, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 14
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "helmet"
+    ], 
+    "cost": 9000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "BLESS", 
+        "value": 256
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The helmet is made from platinum or silver and has a white fur brush attached\non the top.", 
+        "keywords": [
+          "helmet"
+        ]
+      }
+    ], 
+    "id": 7220, 
+    "long_desc": "The silvery helmet lies here.", 
+    "rent": 3000, 
+    "short_desc": "a silvery helmet", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      9, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 35
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shield"
+    ], 
+    "cost": 15000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "BLESS", 
+        "value": 256
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "On the shield you see a clear and perfect painting of a dark red rose on a white\nbackground. You also notice the inscription :'Pax Est Sanctuum'.", 
+        "keywords": [
+          "shield"
+        ]
+      }
+    ], 
+    "id": 7221, 
+    "long_desc": "The shield of the rose rests on the floor.", 
+    "rent": 1000, 
+    "short_desc": "the shield of the rose", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      10, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_SHIELD", 
+        "value": 512
+      }
+    ], 
+    "weight": 60
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "boots"
+    ], 
+    "cost": 2000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "BLESS", 
+        "value": 256
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The boots are made from a silvery metal.", 
+        "keywords": [
+          "boots"
+        ]
+      }
+    ], 
+    "id": 7222, 
+    "long_desc": "A pair of heavy plated boots stand on the floor.", 
+    "rent": 1000, 
+    "short_desc": "a pair of heavy plated boots", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      8, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "plates", 
+      "arm"
+    ], 
+    "cost": 12500, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }, 
+      {
+        "note": "BLESS", 
+        "value": 256
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }, 
+      {
+        "note": "ANTI_NEUTRAL", 
+        "value": 2048
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "They seem to be made from silver or platinum. You see the outline of a rose.", 
+        "keywords": [
+          "plates", 
+          "arm"
+        ]
+      }
+    ], 
+    "id": 7223, 
+    "long_desc": "On the floor you see some arm plates.", 
+    "rent": 7000, 
+    "short_desc": "some arm plates", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      8, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [
+      {
+        "location": 2, 
+        "note": "DEX", 
+        "value": 2
+      }, 
+      {
+        "location": 17, 
+        "note": "AC", 
+        "value": -10
+      }
+    ], 
+    "aliases": [
+      "cloak", 
+      "white"
+    ], 
+    "cost": 10000, 
+    "effects": [
+      {
+        "note": "MAGIC", 
+        "value": 64
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "This is a very fine made cloak from an unknown material, in a bright white\ncolor.", 
+        "keywords": [
+          "cloak", 
+          "white"
+        ]
+      }
+    ], 
+    "id": 7224, 
+    "long_desc": "A white cloak lies on the floor.", 
+    "rent": 5000, 
+    "short_desc": "a white cloak", 
+    "type": {
+      "note": "OTHER", 
+      "value": 12
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ABOUT", 
+        "value": 1024
+      }
+    ], 
+    "weight": 20
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "treasure", 
+      "coins"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Looks like a LOT of coins.", 
+        "keywords": [
+          "treasure"
+        ]
+      }
+    ], 
+    "id": 7298, 
+    "long_desc": "a huge treasure is lying here, looking very valuable.", 
+    "rent": 0, 
+    "short_desc": "a huge treasure", 
+    "type": {
+      "note": "MONEY", 
+      "value": 20
+    }, 
+    "values": [
+      1000, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "action_desc": "stab", 
+    "affects": [], 
+    "aliases": [
+      "sword", 
+      "short"
+    ], 
+    "cost": 60, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This is a very nice little weapon.", 
+        "keywords": [
+          "small", 
+          "sword"
+        ]
+      }
+    ], 
+    "id": 7299, 
+    "long_desc": "There lies a short sword.", 
+    "rent": 20, 
+    "short_desc": "a short sword", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      10, 
+      2, 
+      11
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "backpack", 
+      "pack", 
+      "back"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 7300, 
+    "long_desc": "A bacpack stands upright here.", 
+    "rent": 60, 
+    "short_desc": "a backpack", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      60, 
+      5, 
+      -1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ABOUT", 
+        "value": 1024
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "beltpouch", 
+      "pouch"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 7301, 
+    "long_desc": "A large beltpouch lies here on the ground.", 
+    "rent": 10, 
+    "short_desc": "a large beltpouch", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      5, 
+      5, 
+      -1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WAIST", 
+        "value": 2048
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "scrollcase", 
+      "scrollc", 
+      "case", 
+      "sc"
+    ], 
+    "cost": 30, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 7302, 
+    "long_desc": "A tube-like scrollcase has been left here.", 
+    "rent": 30, 
+    "short_desc": "a scrollcase", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      4, 
+      5, 
+      -1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_NECK", 
+        "value": 4
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [
+      {
+        "location": 2, 
+        "note": "DEX", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "plate", 
+      "torso"
+    ], 
+    "cost": 50000, 
+    "effects": [
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "On the polished steel you can just see the outline of a knight in battle.", 
+        "keywords": [
+          "plate", 
+          "torso"
+        ]
+      }
+    ], 
+    "id": 7304, 
+    "long_desc": "There is a steel torso plate on the floor.", 
+    "rent": 12000, 
+    "short_desc": "a full armor torso plate", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      9, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_BODY", 
+        "value": 8
+      }
+    ], 
+    "weight": 30
+  }, 
+  {
+    "affects": [
+      {
+        "location": 2, 
+        "note": "DEX", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "tassets", 
+      "plates", 
+      "leg"
+    ], 
+    "cost": 12500, 
+    "effects": [
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "They seem to be made from steel, and they are fit to be worn on your thighs.", 
+        "keywords": [
+          "leg", 
+          "plates"
+        ]
+      }
+    ], 
+    "id": 7305, 
+    "long_desc": "On the floor you see two steel tassets", 
+    "rent": 5000, 
+    "short_desc": "plated tassets", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      9, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_LEGS", 
+        "value": 32
+      }
+    ], 
+    "weight": 17
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "gauntlets"
+    ], 
+    "cost": 900, 
+    "effects": [
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [], 
+    "id": 7306, 
+    "long_desc": "You can see a pair of large gauntlets on the floor.", 
+    "rent": 1000, 
+    "short_desc": "a pair of gauntlets", 
+    "type": {
+      "note": "OTHER", 
+      "value": 12
+    }, 
+    "values": [
+      9, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HANDS", 
+        "value": 128
+      }
+    ], 
+    "weight": 4
+  }, 
+  {
+    "affects": [
+      {
+        "location": 2, 
+        "note": "DEX", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "helmet"
+    ], 
+    "cost": 9000, 
+    "effects": [
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The helmet is made from steel.", 
+        "keywords": [
+          "helmet"
+        ]
+      }
+    ], 
+    "id": 7307, 
+    "long_desc": "The steel helmet lies here.", 
+    "rent": 3000, 
+    "short_desc": "a steel helmet", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      9, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HEAD", 
+        "value": 16
+      }
+    ], 
+    "weight": 15
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shield"
+    ], 
+    "cost": 15000, 
+    "effects": [
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [], 
+    "id": 7308, 
+    "long_desc": "The large metal shield rests on the floor.", 
+    "rent": 1000, 
+    "short_desc": "the metal shield", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      10, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_SHIELD", 
+        "value": 512
+      }
+    ], 
+    "weight": 10
+  }, 
+  {
+    "affects": [
+      {
+        "location": 2, 
+        "note": "DEX", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "greaves"
+    ], 
+    "cost": 2000, 
+    "effects": [
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "The greaves are made from solid steel, presumably. These are plated guards\nto be set in front of your shins, so that these will be well protected.\nGo ahead - wear them.", 
+        "keywords": [
+          "greaves"
+        ]
+      }
+    ], 
+    "id": 7309, 
+    "long_desc": "A pair of heavy metal greaves lie on the floor.", 
+    "rent": 1000, 
+    "short_desc": "a pair of heavily plated greaves", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      9, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_FEET", 
+        "value": 64
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [
+      {
+        "location": 2, 
+        "note": "DEX", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "arm", 
+      "guards"
+    ], 
+    "cost": 12500, 
+    "effects": [
+      {
+        "note": "ANTI_GOOD", 
+        "value": 512
+      }, 
+      {
+        "note": "ANTI_EVIL", 
+        "value": 1024
+      }
+    ], 
+    "extra_descs": [], 
+    "id": 7310, 
+    "long_desc": "On the ground you see two steel arm guards.", 
+    "rent": 7000, 
+    "short_desc": "steel arm guards", 
+    "type": {
+      "note": "ARMOR", 
+      "value": 9
+    }, 
+    "values": [
+      9, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_ARMS", 
+        "value": 256
+      }
+    ], 
+    "weight": 40
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "large", 
+      "steel"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This huge key is made from solid steel.", 
+        "keywords": [
+          "steel", 
+          "key"
+        ]
+      }, 
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_redferne"
+        ]
+      }, 
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_naoniel"
+        ]
+      }
+    ], 
+    "id": 7900, 
+    "long_desc": "A large steel key has been left here.", 
+    "rent": 1000000, 
+    "short_desc": "a large key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key", 
+      "copper"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "This little key is made from copper.", 
+        "keywords": [
+          "copper", 
+          "key"
+        ]
+      }, 
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_redferne"
+        ]
+      }, 
+      {
+        "desc": "", 
+        "keywords": [
+          "item_for_naoniel"
+        ]
+      }
+    ], 
+    "id": 7901, 
+    "long_desc": "A copper key has been left on the floor.", 
+    "rent": 100000, 
+    "short_desc": "a copper key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "treasure", 
+      "coins"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Looks like a LOT of coins. A big one of them has writing on it.", 
+        "keywords": [
+          "treasure"
+        ]
+      }, 
+      {
+        "desc": "It reads : \"Hi Conan, no more coins from here, Pal. :)\n                         Signed  Redferne  \".", 
+        "keywords": [
+          "writing", 
+          "letters"
+        ]
+      }
+    ], 
+    "id": 7909, 
+    "long_desc": "a huge treasure is lying here, looking very valuable.", 
+    "rent": 0, 
+    "short_desc": "a huge treasure", 
+    "type": {
+      "note": "MONEY", 
+      "value": 20
+    }, 
+    "values": [
+      -100, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "chest"
+    ], 
+    "cost": 100, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a robust chest made from short, heavy planks that have been fastened\ntogether with tenons.  It is equipped with a simple brass lock.", 
+        "keywords": [
+          "chest"
+        ]
+      }
+    ], 
+    "id": 7910, 
+    "long_desc": "A wooden chest stands in the corner.", 
+    "rent": 30000, 
+    "short_desc": "a wooden chest", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      100, 
+      15, 
+      7911, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 400
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "key"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small, simple brass key with no inscriptions or marks of any kind.", 
+        "keywords": [
+          "key"
+        ]
+      }
+    ], 
+    "id": 7911, 
+    "long_desc": "A small brass key lies here.", 
+    "rent": 4, 
+    "short_desc": "a small brass key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      7910, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "blue", 
+      "key"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 8001, 
+    "long_desc": "A small metal key with a blue handle has been left here.", 
+    "rent": 400, 
+    "short_desc": "a blue key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "red", 
+      "key"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 8002, 
+    "long_desc": "A small metal key with a red handle has been left here.", 
+    "rent": 400, 
+    "short_desc": "a red key", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "strip", 
+      "aluminum"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is app. 2 X 5\" big, with a purple stripe down the middle of the long\nside. Arrayed by the stripe are a number of very small holes, obviously\nset in some meaningful pattern.", 
+        "keywords": [
+          "strip", 
+          "aluminum"
+        ]
+      }, 
+      {
+        "desc": "You can't understand what it is supposed to mean. It looks like this:\n     ... .. .   . .. ... .   . ..\n     .  .. .... ... ... .... .. .\n     ============================\n     ... ... ... .      .   ... .\n     .         . . ....       . .", 
+        "keywords": [
+          "pattern"
+        ]
+      }
+    ], 
+    "id": 8100, 
+    "long_desc": "A small strip of aluminum is lying here.", 
+    "rent": 100, 
+    "short_desc": "a small strip of aluminum", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "dish", 
+      "dirty"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is about 10\" across, made from a thin sheet of metal, and the\nremains of something that smells like chili has been allowed to get\n_really_ attached to it.", 
+        "keywords": [
+          "dish", 
+          "dirty"
+        ]
+      }
+    ], 
+    "id": 8101, 
+    "long_desc": "There is a dirty dish standing here.", 
+    "rent": 400, 
+    "short_desc": "a dirty dish", 
+    "type": {
+      "note": "TRASH", 
+      "value": 13
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "chunk", 
+      "square"
+    ], 
+    "cost": 10, 
+    "effects": [
+      {
+        "note": "HUM", 
+        "value": 2
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is 10 X 15 X 2\", and quite regular. It is transparent, and, while\nprobably not glass, it still feels like glass. There are a large number\nof tiny, needlethin blue lines inside it, and a 1 X 1\" square red\nbutton near one corner.", 
+        "keywords": [
+          "chunk", 
+          "glass"
+        ]
+      }, 
+      {
+        "desc": "As you push the button, a message appears on the slab, in glowing\nblue letters:\n                       SPECIAL EFFECTS PROGRAM\n                          NOT OPERABLE YET", 
+        "keywords": [
+          "button", 
+          "red"
+        ]
+      }
+    ], 
+    "id": 8102, 
+    "long_desc": "There is chunk of glass lying here.", 
+    "rent": 200, 
+    "short_desc": "a chunk of glass", 
+    "type": {
+      "note": "OTHER", 
+      "value": 12
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [
+      {
+        "location": 18, 
+        "note": "HITROLL", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "bone"
+    ], 
+    "cost": 2, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It looks like an ordinary thighbone, except that it is carved from\nglass by somebody very good. It is quite heavy, but somewhat clumsy to\nswing, should one use it as a weapon.", 
+        "keywords": [
+          "bone"
+        ]
+      }
+    ], 
+    "id": 8113, 
+    "long_desc": "There is a glass-like bone lying here.", 
+    "rent": 300, 
+    "short_desc": "a bone", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      4, 
+      7
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 5
+  }, 
+  {
+    "action_desc": "whip", 
+    "affects": [
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "whip", 
+      "electrowhip"
+    ], 
+    "cost": 100, 
+    "effects": [
+      {
+        "note": "GLOW", 
+        "value": 1
+      }, 
+      {
+        "note": "HUM", 
+        "value": 2
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a wicked cord of spun metal, amazingly supple and light, and set\nwith nasty little razor-like blades on the outer third, about one yd.", 
+        "keywords": [
+          "whip", 
+          "blue"
+        ]
+      }
+    ], 
+    "id": 8120, 
+    "long_desc": "A strange, metallic blue whip has been carelessly left here.", 
+    "rent": 100, 
+    "short_desc": "a blueish whip", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      20, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "satchel", 
+      "bag"
+    ], 
+    "cost": 20, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "While the bag in it self look ordinary enough, even perhaps somewhat\ndingy, the closing mechanism is rather unusual (and somewhat noisy), as\nit consists of to strips of strange cloth which sticks to each other\nlike burrs, but doesn't stick to anything else. It makes a loud 'ripping'\nsound when opened.", 
+        "keywords": [
+          "satchel", 
+          "bag"
+        ]
+      }
+    ], 
+    "id": 8121, 
+    "long_desc": "A scuffed and worn leather satchel has been left here.", 
+    "rent": 200, 
+    "short_desc": "a leather satchel", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      20, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cabinet"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is big, 3 meters wide and more than two meters tall, leaving plenty of air\nabove it under the ceiling. There is a large door set in the side, and a solid-\nlooking handle and lock in the door.", 
+        "keywords": [
+          "cabinet"
+        ]
+      }, 
+      {
+        "desc": "The lock-and-handle arrangement is rather strange. Apparently, one inserts a\ncylindrical key, then lift a lever (?).", 
+        "keywords": [
+          "lock", 
+          "handle"
+        ]
+      }
+    ], 
+    "id": 8301, 
+    "long_desc": "There is a large cabinet here.", 
+    "rent": 0, 
+    "short_desc": "a cabinet", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      500, 
+      9, 
+      8302, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cylinder", 
+      "key"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is a small tube, 5\" by 1\" diameter. There is a number of flanges and studs\nalong one end, set in some pattern, and the cylinder flattens to a metal strip\nin the other.", 
+        "keywords": [
+          "cylinder", 
+          "key"
+        ]
+      }
+    ], 
+    "id": 8302, 
+    "long_desc": "There is a small cylindrical object lying here", 
+    "rent": 10, 
+    "short_desc": "a small cylinder", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "spanner"
+    ], 
+    "cost": 30, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is an unusual spanner... It seems to be designed for bolts that have, not\nas would be usual hexagonal heads, but rather starshaped heads... It has no\nother distinguishing features.", 
+        "keywords": [
+          "spanner"
+        ]
+      }
+    ], 
+    "id": 8303, 
+    "long_desc": "There is a spanner lying here", 
+    "rent": 30, 
+    "short_desc": "a spanner", 
+    "type": {
+      "note": "KEY", 
+      "value": 18
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "closet"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It is large, yet gracefully made, obviously of scandinavian design.", 
+        "keywords": [
+          "closet"
+        ]
+      }
+    ], 
+    "id": 8401, 
+    "long_desc": "There is a wooden closet tucked into a corner.", 
+    "rent": 0, 
+    "short_desc": "a closet", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      100, 
+      1, 
+      -1, 
+      0
+    ], 
+    "wear": [], 
+    "weight": 500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "jar"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [], 
+    "id": 8402, 
+    "long_desc": "A small unlabeled spice jar is standing here.", 
+    "rent": 10, 
+    "short_desc": "a spice jar", 
+    "type": {
+      "note": "CONTAINER", 
+      "value": 15
+    }, 
+    "values": [
+      1, 
+      5, 
+      -1, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "powder", 
+      "black"
+    ], 
+    "cost": 300, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "    *        *         *\n      *      *       *\n****   AAAHHHH-TSHOU!   ****\n      *      *       *\n    *        *         *", 
+        "keywords": [
+          "powder"
+        ]
+      }
+    ], 
+    "id": 8403, 
+    "long_desc": "Some strong-smelling black powder has been carelessly scattered here.", 
+    "rent": 10, 
+    "short_desc": "some black powder", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      -2, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "kernel", 
+      "kernels"
+    ], 
+    "cost": 10, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "Look fairly dull...", 
+        "keywords": [
+          "kernel", 
+          "kernels"
+        ]
+      }
+    ], 
+    "id": 8404, 
+    "long_desc": "Some small yellow kernels have been accidentally left here.", 
+    "rent": 10, 
+    "short_desc": "some small yellow kernels", 
+    "type": {
+      "note": "FOOD", 
+      "value": 19
+    }, 
+    "values": [
+      1, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "paper", 
+      "wad"
+    ], 
+    "cost": 0, 
+    "effects": [], 
+    "extra_descs": [
+      {
+        "desc": "It looks old and worn, but You can still make out a faint lettering on it,\nwritten in a strange, alien hand:\n\no    WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!   o\no                                                                     o\no    MSGS: MATRIX CONTROL      TO   SUBSYSTEMS/<ALL>                  o\no    ACT : REQUIRED            T:   NOW                               o\no                                                                     o\no    RECENT DATAQUAKE EVALUATED... EVALUATION FOLLOWS...              o\no    MASSIVE SEGMENTATION HAS OCCURRED... ALL SUBSIDIARY SECTORS      o\no    SHUTDOWN... CENTRAL SHUTDOWN: AUTOMATICS ENGAGED...              o\no                                                                     o\no    DATALEAK DETECTED... DIRECTION:FOREIGN VIRTUAL REALITY, CODENAME o\no    ASSIGNED: 'Midgaard'...                                          o\no    SPECIFIC LOCATION: UNCERTAIN, BEING WITHIN 'Midgaard' SUBSECTOR  o\no    CODENAME ASSIGNED: 'Holy Grove'...                               o\no    BEWARE INTRUSIONS POSSIBLE. ADVISE EXTREME CAUTION...            o\no    .                                                                o\no    .                                                                o\no    .                                                                o\no                                                                     o\no    MSGS: MATRIX CONTROL      TO   SUBSYSTEMS/<Sark>                 o\no                                              <101110101101>         o\no                                              <1101111010101101>     o\no    ACT : URGENT              T:   IMMIDIATE                         o\no                                                                     o\no    INTRUDERS DETECTED IN MAIN MATRIX... DIRECTIVE SEARCH AND        o\no    ELIMINATE...                                                     o\no    .                                                                o\no    .                                                                o\no                                                                     o", 
+        "keywords": [
+          "paper", 
+          "wad"
+        ]
+      }
+    ], 
+    "id": 8499, 
+    "long_desc": "There is a crumpled wad of paper here, left behind by some messy bypasser.", 
+    "rent": 0, 
+    "short_desc": "a crumpled wad of paper", 
+    "type": {
+      "note": "TRASH", 
+      "value": 13
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "chunk", 
+      "square"
+    ], 
+    "cost": 10, 
+    "effects": [
+      {
+        "note": "HUM", 
+        "value": 2
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is 10 X 15 X 2\", and quite regular. It is transparent, and, while\nprobably not glass, it still feels like glass. There are a large number\nof tiny, needlethin blue lines inside it, and a 1 X 1\" square red\nbutton near one corner.", 
+        "keywords": [
+          "chunk", 
+          "glass"
+        ]
+      }, 
+      {
+        "desc": "As you push the button, a message appears on the slab, in glowing\nblue letters:\n                       SPECIAL EFFECTS PROGRAM\n                          NOT OPERABLE YET", 
+        "keywords": [
+          "button", 
+          "red"
+        ]
+      }
+    ], 
+    "id": 8502, 
+    "long_desc": "There is chunk of glass lying here.", 
+    "rent": 200, 
+    "short_desc": "a chunk of glass", 
+    "type": {
+      "note": "OTHER", 
+      "value": 12
+    }, 
+    "values": [
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 2
+  }, 
+  {
+    "affects": [
+      {
+        "location": 19, 
+        "note": "DAMROLL", 
+        "value": -1
+      }
+    ], 
+    "aliases": [
+      "whip", 
+      "electrowhip"
+    ], 
+    "cost": 100, 
+    "effects": [
+      {
+        "note": "GLOW", 
+        "value": 1
+      }, 
+      {
+        "note": "HUM", 
+        "value": 2
+      }
+    ], 
+    "extra_descs": [
+      {
+        "desc": "It is a wicked cord of spun metal, amazingly supple and light, and set\nwith nasty little razor-like blades on the outer third, about one yd.", 
+        "keywords": [
+          "whip", 
+          "blue"
+        ]
+      }
+    ], 
+    "id": 8520, 
+    "long_desc": "A strange, metallic blue whip has been carelessly left here.", 
+    "rent": 100, 
+    "short_desc": "a blueish whip", 
+    "type": {
+      "note": "WEAPON", 
+      "value": 5
+    }, 
+    "values": [
+      0, 
+      1, 
+      20, 
+      3
+    ], 
+    "wear": [
+      {
+        "note": "WEAR_TAKE", 
+        "value": 1
+      }, 
+      {
+        "note": "WEAR_WIELD", 
+        "value": 8192
+      }, 
+      {
+        "note": "WEAR_HOLD", 
+        "value": 16384
+      }
+    ], 
+    "weight": 1
+  }
+]

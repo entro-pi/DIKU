@@ -1,0 +1,7934 @@
+[
+  {
+    "affects": [], 
+    "aliases": [
+      "Puff"
+    ], 
+    "alignment": 1000, 
+    "armor_class": -1, 
+    "bare_hand_damage": {
+      "bonus": 3, 
+      "dice": 4, 
+      "sides": 6
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 10000, 
+    "id": 1, 
+    "level": 26, 
+    "long_desc": "Puff the Fractal Dragon is here, contemplating a higher reality.", 
+    "max_hit_points": {
+      "bonus": 550, 
+      "dice": 5, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Puff", 
+    "thac0": 1, 
+    "xp": 155000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wizard"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "The wizard looks old and senile, and yet he looks like a very powerful\nwizard. He is equipped with fine clothing, and is wearing many fine\nrings and bracelets.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 10000, 
+    "id": 3000, 
+    "level": 23, 
+    "long_desc": "A Wizard walks around behind the counter, talking to himself.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Wizard", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "baker"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "A fat, nice looking baker. But you can see that he has many scars on his\nbody.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3001, 
+    "level": 23, 
+    "long_desc": "The Baker looks at you calmly, wiping flour from his face with one hand.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Baker", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "grocer"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3002, 
+    "level": 23, 
+    "long_desc": "A grocer stands at the counter, with a slightly impatient look on his face.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Grocer", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "weaponsmith"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "A young weaponsmith, who still has lots to learn.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 10000, 
+    "id": 3003, 
+    "level": 23, 
+    "long_desc": "A weaponsmith.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Weaponsmith", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "armourer"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "An old but very strong armourer, he has made more armours in his\nlifetime than you have ever seen.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 10000, 
+    "id": 3004, 
+    "level": 23, 
+    "long_desc": "An Armourer stands here.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Armourer", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "receptionist"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "You notice a tired look in her face.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 2000, 
+    "id": 3005, 
+    "level": 23, 
+    "long_desc": "A receptionist stands in front of you, looking at you like you were the\ncenter of the universe.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Receptionist", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "captain"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "This Captain has eaten more sharks than you have killed peas.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3006, 
+    "level": 23, 
+    "long_desc": "A retired Captain stands here, selling boats.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Captain", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sailor"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He looks like a strong, fit sailor.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3007, 
+    "level": 23, 
+    "long_desc": "A Sailor stands here, waiting to help you.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Sailor", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "pet", 
+      "shop", 
+      "boy"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is young and close-cropped and looks quite happy.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3008, 
+    "level": 23, 
+    "long_desc": "A Pet Shop Boy is here, humming gently.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Pet Shop Boy", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "jeweller"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is fat and has a content although watchful look on his face.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 10000, 
+    "id": 3009, 
+    "level": 23, 
+    "long_desc": "The Jeweller is standing behind the desk.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Jeweller", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "leather", 
+      "worker"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He looks as an honest, hard-working artisan who only just earns enough to\nkeep himself going.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 10000, 
+    "id": 3010, 
+    "level": 23, 
+    "long_desc": "The Leather Worker is sitting by the table, sewing a leather cap.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Leather Worker", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "guildmaster", 
+      "master"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 3, 
+      "sides": 8
+    }, 
+    "detail_desc": "Even though your guildmaster looks old and tired, you can clearly see the\nvast amount of knowledge she posesses. She is wearing fine magic clothing,\nand you notice that she is surrounded by a blue shimmering aura.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 8794, 
+    "id": 3020, 
+    "level": 24, 
+    "long_desc": "Your guildmaster is standing here.", 
+    "max_hit_points": {
+      "bonus": 440, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Guildmaster", 
+    "thac0": 0, 
+    "xp": 100000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "SANCTUARY", 
+        "value": 128
+      }
+    ], 
+    "aliases": [
+      "guildmaster", 
+      "master"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 3, 
+      "sides": 8
+    }, 
+    "detail_desc": "You are in no doubt that this guildmaster is truly close to your god; he has\na peaceful, loving look. You notice that he is surrounded by a white aura.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 8794, 
+    "id": 3021, 
+    "level": 24, 
+    "long_desc": "Your guildmaster is standing here.", 
+    "max_hit_points": {
+      "bonus": 440, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Guildmaster", 
+    "thac0": 0, 
+    "xp": 100000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "guildmaster", 
+      "master"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 3, 
+      "sides": 8
+    }, 
+    "detail_desc": "You realize that whenever your guildmaster moves, you fail to notice it -\nthe way of the true thief. She is to be dressed in poor clothing, having\nthe appearance of a beggar.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 8794, 
+    "id": 3022, 
+    "level": 24, 
+    "long_desc": "Your guildmaster is standing here.", 
+    "max_hit_points": {
+      "bonus": 440, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Guildmaster", 
+    "thac0": 0, 
+    "xp": 100000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "guildmaster", 
+      "master"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 3, 
+      "sides": 8
+    }, 
+    "detail_desc": "This is your master. Big and strong with bulging muscles. Several scars\nacross his body proves that he was using arms before you were born. He\nhas a calm look on his face.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 8794, 
+    "id": 3023, 
+    "level": 24, 
+    "long_desc": "Your guildmaster is standing here.", 
+    "max_hit_points": {
+      "bonus": 440, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Guildmaster", 
+    "thac0": 0, 
+    "xp": 100000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sorcerer"
+    ], 
+    "alignment": 800, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is an experienced mage who has specialized in the field of Combat Magic.\nHe is here to guard the Mage's Guild and his superior knowledge of offensive\nas well as defensive spells make him a deadly opponent.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3024, 
+    "level": 23, 
+    "long_desc": "A sorcerer is guarding the entrance.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Sorcerer", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "templar"
+    ], 
+    "alignment": 800, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is a specially trained warrior belonging to the military order of the Faith.\nHis duty is to protect the faithful from persecution and infidel attacks and\nhis religious devotion combined with his superior skill makes him a deadly\nopponent.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3025, 
+    "level": 23, 
+    "long_desc": "A knight templar is guarding the entrance.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Knight Templar", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "assassin"
+    ], 
+    "alignment": 800, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is a thief who has specialized in killing others as effectively as possible,\nusing all sorts of weapons.  His superior knowledge of how and where to use\nthem combined with his extraordinary stealth makes him a deadly opponent.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3026, 
+    "level": 23, 
+    "long_desc": "An assassin is guarding the entrance.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Assassin", 
+    "thac0": 4, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "knight"
+    ], 
+    "alignment": 800, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is an expert warrior who has attained knighthood through countless\nchivalrous deeds.  His duty is to protect the Guild of Swordsmen and his\nextreme skill combined with his experience in warfare makes him a deadly\nopponent.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3027, 
+    "level": 23, 
+    "long_desc": "A knight is guarding the entrance.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Knight", 
+    "thac0": 0, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bartender"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "A tired looking Bartender who hates trouble in his bar.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3040, 
+    "level": 23, 
+    "long_desc": "A Bartender watches you calmly, while he skillfully mixes a drink.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Bartender", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "waiter"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "A tired looking waiter.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3041, 
+    "level": 23, 
+    "long_desc": "A waiter is going around from one place to another.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Waiter", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "waiter"
+    ], 
+    "alignment": 600, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3042, 
+    "level": 23, 
+    "long_desc": "A man who in his young days was a famous sorcerer but now leads a quiet,\npeaceful life as a waiter.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Waiter", 
+    "thac0": 1, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "waiter"
+    ], 
+    "alignment": 600, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3043, 
+    "level": 23, 
+    "long_desc": "A waiter who seems to have reach contact with God.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Waiter", 
+    "thac0": 1, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "waiter"
+    ], 
+    "alignment": 600, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3044, 
+    "level": 23, 
+    "long_desc": "A waiter who knows where all his costumers has their money.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Waiter", 
+    "thac0": 1, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "waiter"
+    ], 
+    "alignment": 600, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3045, 
+    "level": 23, 
+    "long_desc": "A waiter who easily could kill you, and still carry quite a few firebreathers.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Waiter", 
+    "thac0": 1, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "filthy"
+    ], 
+    "alignment": 600, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "Filthy looks real, ehm, dirty. He likes to keep his costumers happy,\nbut do not mess with him or else he'll get upset.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 3046, 
+    "level": 23, 
+    "long_desc": "Filthy is standing here, eager to serve you a special drink.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Filthy", 
+    "thac0": 1, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cityguard", 
+      "guard"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 3, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "A big, strong, helpful, trustworthy guard.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 500, 
+    "id": 3060, 
+    "level": 10, 
+    "long_desc": "A cityguard stands here.", 
+    "max_hit_points": {
+      "bonus": 123, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Cityguard", 
+    "thac0": 10, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "janitor"
+    ], 
+    "alignment": 900, 
+    "armor_class": 9, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 5
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 34, 
+    "id": 3061, 
+    "level": 1, 
+    "long_desc": "A janitor is walking around, cleaning up.", 
+    "max_hit_points": {
+      "bonus": 10, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Janitor", 
+    "thac0": 20, 
+    "xp": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "fido", 
+      "dog"
+    ], 
+    "alignment": -200, 
+    "armor_class": 10, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "detail_desc": "Fido is a small dog that has a foul smell and pieces of rotted meat hanging\naround his teeth.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 10, 
+    "id": 3062, 
+    "level": 0, 
+    "long_desc": "Beastly Fido is here.", 
+    "max_hit_points": {
+      "bonus": 4, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Beastly Fido", 
+    "thac0": 20, 
+    "xp": 25
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "mercenary"
+    ], 
+    "alignment": -200, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He looks pretty mean.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 47, 
+    "id": 3063, 
+    "level": 5, 
+    "long_desc": "A Mercenary waiting for a job.", 
+    "max_hit_points": {
+      "bonus": 60, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Mercenary", 
+    "thac0": 16, 
+    "xp": 900
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "drunk"
+    ], 
+    "alignment": 400, 
+    "armor_class": 8, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "detail_desc": "A drunk who seems to be too happy, and to carry too much money.", 
+    "extra_spec": {}, 
+    "flags": [], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 85, 
+    "id": 3064, 
+    "level": 2, 
+    "long_desc": "A singing, happy Drunk.", 
+    "max_hit_points": {
+      "bonus": 22, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Drunk", 
+    "thac0": 19, 
+    "xp": 200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "beggar"
+    ], 
+    "alignment": 400, 
+    "armor_class": 9, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 5
+    }, 
+    "detail_desc": "The beggar looks like she is fed up with life.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 0, 
+    "id": 3065, 
+    "level": 1, 
+    "long_desc": "A beggar is here, asking for a few coins.", 
+    "max_hit_points": {
+      "bonus": 10, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Beggar", 
+    "thac0": 20, 
+    "xp": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "odif", 
+      "yltsaeb"
+    ], 
+    "alignment": -200, 
+    "armor_class": 10, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "detail_desc": "Odif is a small dog that has been reversed by some god.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 10, 
+    "id": 3066, 
+    "level": 0, 
+    "long_desc": "Odif Yltsaeb is here, walking backwards.", 
+    "max_hit_points": {
+      "bonus": 4, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Odif Yltsaeb", 
+    "thac0": 20, 
+    "xp": 25
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cityguard", 
+      "guard"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 3, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "A big, strong, helpful, trustworthy guard.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 500, 
+    "id": 3067, 
+    "level": 10, 
+    "long_desc": "A cityguard is here, guarding the gate.", 
+    "max_hit_points": {
+      "bonus": 123, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Cityguard", 
+    "thac0": 10, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "kitten"
+    ], 
+    "alignment": 400, 
+    "armor_class": 9, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "detail_desc": "The Kitten looks like a cute, little, fierce fighter.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3090, 
+    "level": 1, 
+    "long_desc": "A small loyal Kitten is here.", 
+    "max_hit_points": {
+      "bonus": 11, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Kitten", 
+    "thac0": 20, 
+    "xp": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "puppy"
+    ], 
+    "alignment": 400, 
+    "armor_class": 9, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "detail_desc": "The Puppy looks like a cute, little, fierce fighter.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3091, 
+    "level": 1, 
+    "long_desc": "A small loyal Puppy is here.", 
+    "max_hit_points": {
+      "bonus": 11, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Puppy", 
+    "thac0": 20, 
+    "xp": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "beagle"
+    ], 
+    "alignment": 400, 
+    "armor_class": 8, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "detail_desc": "The Beagle looks like a fierce fighter.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3092, 
+    "level": 2, 
+    "long_desc": "A small, quick, loyal Beagle is here.", 
+    "max_hit_points": {
+      "bonus": 22, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Beagle", 
+    "thac0": 19, 
+    "xp": 200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "rottweiler"
+    ], 
+    "alignment": 400, 
+    "armor_class": 7, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "The Rottweiler looks like a strong, fierce fighter.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3093, 
+    "level": 3, 
+    "long_desc": "A large, loyal Rottweiler is here.", 
+    "max_hit_points": {
+      "bonus": 35, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Rottweiler", 
+    "thac0": 18, 
+    "xp": 800
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wolf"
+    ], 
+    "alignment": 0, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "The Wolf looks like a strong, fearless fighter.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3094, 
+    "level": 4, 
+    "long_desc": "A large, trained Wolf is here.", 
+    "max_hit_points": {
+      "bonus": 47, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Wolf", 
+    "thac0": 17, 
+    "xp": 1600
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "maid"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "She is very beautiful with golden hair, and deep blue eyes. A good reason\nfor coming here more often.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 2000, 
+    "id": 3100, 
+    "level": 23, 
+    "long_desc": "The Maid is waiting for your order.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Maid", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sexton"
+    ], 
+    "alignment": 800, 
+    "armor_class": 7, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "The Sexton looks like he is relaxing after another gravedigging job.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 13, 
+    "id": 3120, 
+    "level": 3, 
+    "long_desc": "A Sexton is sitting here, drinking hot tea.", 
+    "max_hit_points": {
+      "bonus": 35, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SITTING", 
+        "value": 6
+      }, 
+      "load": {
+        "note": "POSITION_SITTING", 
+        "value": 6
+      }
+    }, 
+    "short_desc": "the Sexton", 
+    "thac0": 18, 
+    "xp": 350
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "swan"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 9, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 5
+    }, 
+    "detail_desc": "The white swan is very elegant.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3121, 
+    "level": 1, 
+    "long_desc": "A swan is swimming around in the pond.", 
+    "max_hit_points": {
+      "bonus": 10, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Swan", 
+    "thac0": 20, 
+    "xp": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "duckling"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 10, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "detail_desc": "The duckling is adorable, it looks most of all like a tiny furball.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3122, 
+    "level": 0, 
+    "long_desc": "A duckling is swimming around in the pond.", 
+    "max_hit_points": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Duckling", 
+    "thac0": 20, 
+    "xp": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sparrow"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 10, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 3
+    }, 
+    "detail_desc": "The sparrow looks like it is enjoying life.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3123, 
+    "level": 0, 
+    "long_desc": "A sparrow is flapping around on the ground.", 
+    "max_hit_points": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Sparrow", 
+    "thac0": 20, 
+    "xp": 25
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "duck"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 10, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "detail_desc": "The duck is quite fat.  It looks like it is enjoying life.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3124, 
+    "level": 1, 
+    "long_desc": "A duck is here, quacking happily.", 
+    "max_hit_points": {
+      "bonus": 5, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Duck", 
+    "thac0": 20, 
+    "xp": 75
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "captain"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 1, 
+    "bare_hand_damage": {
+      "bonus": 8, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "The very angry Captain of the Guard.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 0, 
+    "id": 3140, 
+    "level": 17, 
+    "long_desc": "The Captain of the Guard is looking very upset.", 
+    "max_hit_points": {
+      "bonus": 210, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Captain", 
+    "thac0": 4, 
+    "xp": 28000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cityguard", 
+      "guard"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 3, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "A big, strong, angry guard.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 0, 
+    "id": 3141, 
+    "level": 10, 
+    "long_desc": "A cityguard stands here, looking very upset.", 
+    "max_hit_points": {
+      "bonus": 123, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Cityguard", 
+    "thac0": 10, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "secretary"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "She looks very busy.\n\n>\nThe Secretary says 'Sorry, but the Mayor is extremely busy today.'\nThe Secretary says 'Please sit down and have a seat in the meantime.'", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 100, 
+    "id": 3142, 
+    "level": 12, 
+    "long_desc": "A secretary is sitting at the desk, typing away on the typewriter.", 
+    "max_hit_points": {
+      "bonus": 148, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Secretary", 
+    "thac0": 9, 
+    "xp": 13000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "mayor"
+    ], 
+    "alignment": 900, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 12, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is a stocky, middle-aged man with thin, grey hair.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 1000, 
+    "id": 3143, 
+    "level": 23, 
+    "long_desc": "The Mayor is sitting in his huge chair, snoring loudly.", 
+    "max_hit_points": {
+      "bonus": 390, 
+      "dice": 6, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }, 
+      "load": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }
+    }, 
+    "short_desc": "the Mayor", 
+    "thac0": 2, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "crier"
+    ], 
+    "alignment": 900, 
+    "armor_class": 9, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 5
+    }, 
+    "detail_desc": "He is very good at his job - completely dissolved in tears.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 34, 
+    "id": 3144, 
+    "level": 1, 
+    "long_desc": "The Town Crier is here, weeping quietly.", 
+    "max_hit_points": {
+      "bonus": 10, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Town Crier", 
+    "thac0": 20, 
+    "xp": 100
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "cat"
+    ], 
+    "alignment": 1000, 
+    "armor_class": -10, 
+    "bare_hand_damage": {
+      "bonus": 100, 
+      "dice": 20, 
+      "sides": 20
+    }, 
+    "detail_desc": "This is just about the most huggable cat you have ever seen! You notice\nthat the cat has exceptionally big claws - guess it's nothing to worry\nabout as long as you leave it alone.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3300, 
+    "level": 30, 
+    "long_desc": "Papi's favorite cat is resting here, purring gently.", 
+    "max_hit_points": {
+      "bonus": 500, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }, 
+      "load": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }
+    }, 
+    "short_desc": "the cat", 
+    "thac0": 0, 
+    "xp": 0
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "henry", 
+      "gardener"
+    ], 
+    "alignment": 350, 
+    "armor_class": 8, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "detail_desc": "He is a tall but bulky man in his late fifties.  His features are worn with\ndecades of hard work and his somewhat crouched expression is one of deep\nsorrow and depression.  He is haunted by a memory of a lost paradise.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 50, 
+    "id": 3600, 
+    "level": 4, 
+    "long_desc": "Henry the Gardener is sitting here, looking drunk.", 
+    "max_hit_points": {
+      "bonus": 48, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SITTING", 
+        "value": 6
+      }, 
+      "load": {
+        "note": "POSITION_SITTING", 
+        "value": 6
+      }
+    }, 
+    "short_desc": "Henry the Gardener", 
+    "thac0": 15, 
+    "xp": 800
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "corpse", 
+      "zombie"
+    ], 
+    "alignment": -750, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "Maggots crawl all over its decaying body.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3601, 
+    "level": 4, 
+    "long_desc": "A rotting corpse is staggering towards you with outstretched hands.", 
+    "max_hit_points": {
+      "bonus": 60, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the rotting corpse", 
+    "thac0": 16, 
+    "xp": 1200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "ghoul"
+    ], 
+    "alignment": -750, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "detail_desc": "It is a walking corpse with long fangs and long, sharp nails that most of\nresemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 3602, 
+    "level": 6, 
+    "long_desc": "A ghastly ghoul is here.", 
+    "max_hit_points": {
+      "bonus": 72, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the ghastly ghoul", 
+    "thac0": 15, 
+    "xp": 2000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "snake"
+    ], 
+    "alignment": -200, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 3, 
+      "sides": 6
+    }, 
+    "detail_desc": "It looks hungry.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4000, 
+    "level": 11, 
+    "long_desc": "A large dreadful snake.", 
+    "max_hit_points": {
+      "bonus": 50, 
+      "dice": 5, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the snake", 
+    "thac0": 7, 
+    "xp": 12000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "snake"
+    ], 
+    "alignment": -100, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "It looks harmless.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4001, 
+    "level": 7, 
+    "long_desc": "A small green snake.", 
+    "max_hit_points": {
+      "bonus": 30, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the green snake", 
+    "thac0": 12, 
+    "xp": 2500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "centipede"
+    ], 
+    "alignment": 100, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "detail_desc": "It looks complete harmless.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4002, 
+    "level": 3, 
+    "long_desc": "A small centipede.", 
+    "max_hit_points": {
+      "bonus": 20, 
+      "dice": 2, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the centipede", 
+    "thac0": 20, 
+    "xp": 500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "kobold"
+    ], 
+    "alignment": -100, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "It looks ugly.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 50, 
+    "id": 4003, 
+    "level": 4, 
+    "long_desc": "A ugly kobold.", 
+    "max_hit_points": {
+      "bonus": 40, 
+      "dice": 2, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the kobold", 
+    "thac0": 16, 
+    "xp": 1000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "orc"
+    ], 
+    "alignment": -400, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "You notice an evil look in his eyes", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 100, 
+    "id": 4004, 
+    "level": 5, 
+    "long_desc": "The orc walks around, looking for someone to kill.", 
+    "max_hit_points": {
+      "bonus": 60, 
+      "dice": 2, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the orc", 
+    "thac0": 15, 
+    "xp": 1300
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "orc"
+    ], 
+    "alignment": -500, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "He looks dreadful.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 200, 
+    "id": 4005, 
+    "level": 7, 
+    "long_desc": "A large orc, really mean.", 
+    "max_hit_points": {
+      "bonus": 50, 
+      "dice": 3, 
+      "sides": 20
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the orc", 
+    "thac0": 11, 
+    "xp": 4000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "warrior"
+    ], 
+    "alignment": -300, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 8
+    }, 
+    "detail_desc": "Well surely a strong, brainless fighter.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 1000, 
+    "id": 4050, 
+    "level": 12, 
+    "long_desc": "A tall dangerous warrior. He has more scares than anyone you have\nseen before.", 
+    "max_hit_points": {
+      "bonus": 50, 
+      "dice": 10, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the warrior", 
+    "thac0": 8, 
+    "xp": 12000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "warrior"
+    ], 
+    "alignment": -400, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "He seems to know his way with weapons.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 200, 
+    "id": 4051, 
+    "level": 7, 
+    "long_desc": "A tall warrior.", 
+    "max_hit_points": {
+      "bonus": 80, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the warrior", 
+    "thac0": 13, 
+    "xp": 3500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "hobgoblin"
+    ], 
+    "alignment": -300, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "The hobgoblin looks quite lost.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 100, 
+    "id": 4052, 
+    "level": 6, 
+    "long_desc": "A small hobgoblin stands here.", 
+    "max_hit_points": {
+      "bonus": 70, 
+      "dice": 3, 
+      "sides": 8
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the hobgoblin", 
+    "thac0": 12, 
+    "xp": 2000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "snake"
+    ], 
+    "alignment": -600, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 3, 
+      "sides": 5
+    }, 
+    "detail_desc": "The snake looks quite mean.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4053, 
+    "level": 10, 
+    "long_desc": "A brown snake watches you.", 
+    "max_hit_points": {
+      "bonus": 50, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the snake", 
+    "thac0": 10, 
+    "xp": 10000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "centipede"
+    ], 
+    "alignment": -100, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "The centipede doesn't really seem to notice you.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4054, 
+    "level": 5, 
+    "long_desc": "A white centipede is here.", 
+    "max_hit_points": {
+      "bonus": 50, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the centipede", 
+    "thac0": 17, 
+    "xp": 1300
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "hobgoblin"
+    ], 
+    "alignment": -500, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "The hobgoblin looks quite dangerous.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 300, 
+    "id": 4055, 
+    "level": 10, 
+    "long_desc": "A large hobgoblin is here.", 
+    "max_hit_points": {
+      "bonus": 120, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the hobgoblin", 
+    "thac0": 11, 
+    "xp": 10000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "orc"
+    ], 
+    "alignment": -800, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "Well he doesn't seem to be friendly.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 150, 
+    "id": 4056, 
+    "level": 8, 
+    "long_desc": "An orc is here, looking for something (or perhaps someone ? ) to eat.", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the orc", 
+    "thac0": 13, 
+    "xp": 7000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "mage"
+    ], 
+    "alignment": -100, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "His IQ makes almost any dikumud player look stupid..", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 1500, 
+    "id": 4100, 
+    "level": 13, 
+    "long_desc": "A small intelligent looking mage is standing here. It looks like he\nknows his way with the magic. ", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 3, 
+      "sides": 20
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Mage", 
+    "thac0": 10, 
+    "xp": 17000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "troll"
+    ], 
+    "alignment": -800, 
+    "armor_class": 1, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "Well looks dangerous.!", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 500, 
+    "id": 4101, 
+    "level": 12, 
+    "long_desc": "A large mean-looking troll is here.", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 2, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the troll", 
+    "thac0": 8, 
+    "xp": 15000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "snake"
+    ], 
+    "alignment": -700, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "You see a evil creature.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 0, 
+    "id": 4102, 
+    "level": 10, 
+    "long_desc": "A large green snake, looks like a guardian for an evil force.", 
+    "max_hit_points": {
+      "bonus": 50, 
+      "dice": 2, 
+      "sides": 30
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the snake", 
+    "thac0": 8, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "thief"
+    ], 
+    "alignment": 100, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "Well COUNT you money..!", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 100, 
+    "id": 4103, 
+    "level": 8, 
+    "long_desc": "A thief, all dressed in black.", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Thief", 
+    "thac0": 13, 
+    "xp": 4000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "orc"
+    ], 
+    "alignment": -200, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "Yrkk..", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 200, 
+    "id": 4104, 
+    "level": 7, 
+    "long_desc": "A ugly orc is standing here.", 
+    "max_hit_points": {
+      "bonus": 90, 
+      "dice": 1, 
+      "sides": 5
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the orc", 
+    "thac0": 14, 
+    "xp": 2250
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "centipede"
+    ], 
+    "alignment": 300, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "Well it doesn't seem to pay any attention towards you.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4105, 
+    "level": 6, 
+    "long_desc": "A small harmless centipede is here.", 
+    "max_hit_points": {
+      "bonus": 50, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "a centipede", 
+    "thac0": 15, 
+    "xp": 1500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "warrior"
+    ], 
+    "alignment": -300, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "He doesn't look friendly at all...", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 500, 
+    "id": 4106, 
+    "level": 9, 
+    "long_desc": "A human warrior is here. He has a evil grin in his face.", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Warrior", 
+    "thac0": 10, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "kobold"
+    ], 
+    "alignment": -100, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "detail_desc": "It looks slimy..", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 20, 
+    "id": 4107, 
+    "level": 7, 
+    "long_desc": "A green kobold is here.", 
+    "max_hit_points": {
+      "bonus": 20, 
+      "dice": 2, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the kobold", 
+    "thac0": 14, 
+    "xp": 3000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bat", 
+      "blue"
+    ], 
+    "alignment": -100, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "It looks electric.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4150, 
+    "level": 7, 
+    "long_desc": "A blue bat is here.", 
+    "max_hit_points": {
+      "bonus": 70, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the blue bat", 
+    "thac0": 15, 
+    "xp": 2200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bat", 
+      "red"
+    ], 
+    "alignment": -100, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "It looks warm.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4151, 
+    "level": 7, 
+    "long_desc": "A red bat is here.", 
+    "max_hit_points": {
+      "bonus": 70, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the red bat", 
+    "thac0": 15, 
+    "xp": 2200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bat", 
+      "green"
+    ], 
+    "alignment": -100, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "It looks poisonous.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4152, 
+    "level": 7, 
+    "long_desc": "A green bat is here.", 
+    "max_hit_points": {
+      "bonus": 70, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the green bat", 
+    "thac0": 15, 
+    "xp": 2200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bat", 
+      "white"
+    ], 
+    "alignment": -100, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "It looks cold.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4153, 
+    "level": 7, 
+    "long_desc": "A white bat is here.", 
+    "max_hit_points": {
+      "bonus": 70, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the white bat", 
+    "thac0": 15, 
+    "xp": 2200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bat", 
+      "black"
+    ], 
+    "alignment": -100, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "It looks corrosive.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 4154, 
+    "level": 7, 
+    "long_desc": "A black bat is here.", 
+    "max_hit_points": {
+      "bonus": 70, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the black bat", 
+    "thac0": 15, 
+    "xp": 2200
+  }, 
+  {
+    "affects": [
+      {
+        "note": "INVISIBLE", 
+        "value": 2
+      }, 
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "thief"
+    ], 
+    "alignment": 400, 
+    "armor_class": 1, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "He looks quite professional.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2000, 
+    "id": 4155, 
+    "level": 12, 
+    "long_desc": "A sneaky thief is here.", 
+    "max_hit_points": {
+      "bonus": 130, 
+      "dice": 3, 
+      "sides": 20
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the thief", 
+    "thac0": 7, 
+    "xp": 14000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "troll"
+    ], 
+    "alignment": -700, 
+    "armor_class": 1, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "He looks quite mean.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 3000, 
+    "id": 4156, 
+    "level": 14, 
+    "long_desc": "A large ugle troll is here.", 
+    "max_hit_points": {
+      "bonus": 140, 
+      "dice": 8, 
+      "sides": 20
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the troll", 
+    "thac0": 8, 
+    "xp": 20000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "mage"
+    ], 
+    "alignment": -200, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "He is reading in his magic books.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 800, 
+    "id": 4157, 
+    "level": 11, 
+    "long_desc": "A small mage is here.", 
+    "max_hit_points": {
+      "bonus": 80, 
+      "dice": 4, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Mage", 
+    "thac0": 10, 
+    "xp": 11000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "snake"
+    ], 
+    "alignment": 200, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "It looks angry.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 0, 
+    "id": 4158, 
+    "level": 9, 
+    "long_desc": "A brown snake is here.", 
+    "max_hit_points": {
+      "bonus": 110, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the snake", 
+    "thac0": 12, 
+    "xp": 8000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "troll"
+    ], 
+    "alignment": -300, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "He looks like a normal troll, the standard mud troll..", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 500, 
+    "id": 4159, 
+    "level": 8, 
+    "long_desc": "A small troll is here.", 
+    "max_hit_points": {
+      "bonus": 80, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the small troll", 
+    "thac0": 13, 
+    "xp": 5000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "orc"
+    ], 
+    "alignment": -200, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "He looke quite aggressive.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 500, 
+    "id": 4160, 
+    "level": 9, 
+    "long_desc": "A large orc is here.", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 1, 
+      "sides": 20
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the orc", 
+    "thac0": 12, 
+    "xp": 6000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "druid", 
+      "Aruncus"
+    ], 
+    "alignment": -500, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 3, 
+      "sides": 5
+    }, 
+    "detail_desc": "Aruncus is a tall, skinny druid with a face marked by nature.\nHe seems to be in peace with himself and his surroundings.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 500, 
+    "id": 5000, 
+    "level": 13, 
+    "long_desc": "Aruncus the Druid is walking around here, searching for herbs.", 
+    "max_hit_points": {
+      "bonus": 150, 
+      "dice": 6, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Aruncus the Druid", 
+    "thac0": 8, 
+    "xp": 15000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "hermit", 
+      "sorbus"
+    ], 
+    "alignment": 0, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 1, 
+      "sides": 9
+    }, 
+    "detail_desc": "Sorbus bares the marks of a long, hard life in solitude.\nHe is dressed in simple clothing and looks like he has little\nor nothing to say.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 1, 
+    "id": 5001, 
+    "level": 4, 
+    "long_desc": "Sorbus the Hermit is sitting here, roasting a rabbit.", 
+    "max_hit_points": {
+      "bonus": 20, 
+      "dice": 8, 
+      "sides": 8
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SITTING", 
+        "value": 6
+      }, 
+      "load": {
+        "note": "POSITION_SITTING", 
+        "value": 6
+      }
+    }, 
+    "short_desc": "Sorbus the Hermit", 
+    "thac0": 16, 
+    "xp": 400
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "merchant"
+    ], 
+    "alignment": 0, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 4, 
+      "sides": 8
+    }, 
+    "detail_desc": "The street merchant looks like he knows his way about.\nHis face is scarred from numerous attacks, which he so far obviously\nhas won.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 3000, 
+    "id": 5002, 
+    "level": 21, 
+    "long_desc": "A street merchant is here, selling out from his extensive inventory.", 
+    "max_hit_points": {
+      "bonus": 200, 
+      "dice": 15, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "street merchant", 
+    "thac0": 0, 
+    "xp": 55000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "citizen"
+    ], 
+    "alignment": 0, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "He looks the average citizen of Ofcol.\nBasically he seems like a nice person with no interrest in harming\nyou or others.\nHe wears normal, light clothing and has an anonymous face.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 200, 
+    "id": 5003, 
+    "level": 5, 
+    "long_desc": "There is a citizen of Ofcol here glaring at you.. stranger!", 
+    "max_hit_points": {
+      "bonus": 40, 
+      "dice": 4, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the citizen", 
+    "thac0": 16, 
+    "xp": 2800
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "citizen"
+    ], 
+    "alignment": 0, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "She looks the average citizen of Ofcol.\nBasically she seems like a nice person with no interrest in harming\nyou or others.\nShe wears a minimum of clothing and has big....eyes.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 100, 
+    "id": 5004, 
+    "level": 5, 
+    "long_desc": "There is a citizen of Ofcol here glaring at you.. stranger!", 
+    "max_hit_points": {
+      "bonus": 40, 
+      "dice": 3, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the citizen", 
+    "thac0": 16, 
+    "xp": 2400
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "worm", 
+      "Shudde-M'ell"
+    ], 
+    "alignment": -1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 3, 
+      "sides": 8
+    }, 
+    "detail_desc": "Shudde-M'ell is about 15 ft long and is surrounded by an evil stench,\nThe worm is the protector of the treasure of G'harne and has been so\nfor as long anyone can remember.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 13666, 
+    "id": 5005, 
+    "level": 24, 
+    "long_desc": "Shudde-M'ell the Giant worm of G'harne is guarding his treasure.", 
+    "max_hit_points": {
+      "bonus": 50, 
+      "dice": 300, 
+      "sides": 2
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Shudde-M'ell", 
+    "thac0": 0, 
+    "xp": 75000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "luxan", 
+      "shopkeeper"
+    ], 
+    "alignment": 400, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 10
+    }, 
+    "detail_desc": "Luxan is dressed in a strange jacket.\nHe looks like a mean trader from the outskirts of Midgaard.\nHis life is seems to be totally occupied with trading.\nHe looks very fit and capable of protecting his goods.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 8000, 
+    "id": 5006, 
+    "level": 23, 
+    "long_desc": "Luxan the Shopkeeper is here, eager to sell you anything.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Luxan", 
+    "thac0": 0, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "daughter", 
+      "matty"
+    ], 
+    "alignment": 800, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 8
+    }, 
+    "detail_desc": "As you study Matty you notice that she has exactly the same taste\nin clothing as you.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 0, 
+    "id": 5007, 
+    "level": 22, 
+    "long_desc": "Matty the daughter of Luxan is here, looking after the stored items.\nMatty is eager to serve you.", 
+    "max_hit_points": {
+      "bonus": 28997, 
+      "dice": 2, 
+      "sides": 2
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Matty", 
+    "thac0": 0, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "keeper", 
+      "innkeeper"
+    ], 
+    "alignment": -100, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 10
+    }, 
+    "detail_desc": "The Innkeeper looks skilled in brewing different beers and mixing the\nweirdest drinks known. He also looks very big.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 100, 
+    "id": 5008, 
+    "level": 23, 
+    "long_desc": "An Innkeeper is here waiting for your order.", 
+    "max_hit_points": {
+      "bonus": 30000, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Innkeeper", 
+    "thac0": 0, 
+    "xp": 80000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }, 
+      {
+        "note": "SANCTUARY", 
+        "value": 128
+      }, 
+      {
+        "note": null, 
+        "value": 4194304
+      }
+    ], 
+    "aliases": [
+      "dragon", 
+      "pet"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 10, 
+      "sides": 10
+    }, 
+    "detail_desc": "Ravan's pet dragon is about 3 ft. tall with small pointy teeth.\nThe small wings are eagerly trying to lift her from the ground,\nbut so far they haven't succeeded.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 0, 
+    "id": 5050, 
+    "level": 1, 
+    "long_desc": "Ravan's pet dragon is bouncing around here flapping her cute wings.", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 10, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the pet dragon", 
+    "thac0": 0, 
+    "xp": 30000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "john", 
+      "lumberjack"
+    ], 
+    "alignment": 350, 
+    "armor_class": 7, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is six feet tall and looks quite strong, muscles bulging under his heavy,\nchequered shirt.  His features are worn with hard work and his expression is\none of a peaceful man leading a simple life.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 50, 
+    "id": 6000, 
+    "level": 5, 
+    "long_desc": "John the Lumberjack is here, looking for some trees to chop down.", 
+    "max_hit_points": {
+      "bonus": 48, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "John the Lumberjack", 
+    "thac0": 15, 
+    "xp": 1000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "rabbit"
+    ], 
+    "alignment": 0, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "detail_desc": "It is a small, furry creature with long ears and big feet.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6001, 
+    "level": 1, 
+    "long_desc": "A cute rabbit is here.", 
+    "max_hit_points": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the cute rabbit", 
+    "thac0": 20, 
+    "xp": 50
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bear"
+    ], 
+    "alignment": -50, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "The bear is a big, brown, furry animal with very large claws and very sharp\nteeth.  It doesn't resemble those cute little thingies from toy shops at all.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6002, 
+    "level": 8, 
+    "long_desc": "A big, brown, angry-looking bear is here.", 
+    "max_hit_points": {
+      "bonus": 98, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }, 
+      "load": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }
+    }, 
+    "short_desc": "the brown bear", 
+    "thac0": 13, 
+    "xp": 4000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "rabbit"
+    ], 
+    "alignment": -150, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "This small, furry creature with long ears and big feet has been attacked by\nthe dreaded rabbit rabies, a horrible disease that turns helpless and innocent\nrabbits into ferocious and bloodthirsty monsters.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6003, 
+    "level": 3, 
+    "long_desc": "A ferocious rabbit is here, glaring hungrily at you.", 
+    "max_hit_points": {
+      "bonus": 26, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }, 
+      "load": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }
+    }, 
+    "short_desc": "the ferocious rabbit", 
+    "thac0": 17, 
+    "xp": 350
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "deer"
+    ], 
+    "alignment": 350, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "detail_desc": "She is a graceful creature on long, slender legs, and with large, brown eyes\nlooking back at you with an air of watchful interest.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AWARE", 
+        "value": 16
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 0, 
+    "id": 6004, 
+    "level": 2, 
+    "long_desc": "A fallow deer is grazing peacefully here.", 
+    "max_hit_points": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 8
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the fallow deer", 
+    "thac0": 19, 
+    "xp": 200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "fox"
+    ], 
+    "alignment": -50, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "detail_desc": "It is a large fox with beautiful, red-brown fur and a long, thick brush.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6005, 
+    "level": 2, 
+    "long_desc": "A brown fox is here, looking for some rabbits to chew up.", 
+    "max_hit_points": {
+      "bonus": 18, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the brown fox", 
+    "thac0": 18, 
+    "xp": 200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "warg", 
+      "vicious"
+    ], 
+    "alignment": -350, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "It is an exceptionally large wolf with thick, black fur.  Saliva is dripping\nquickly from its long, white fangs.  It looks quite dangerous and very angry.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6100, 
+    "level": 5, 
+    "long_desc": "A vicious warg is here, snarling angrily at you.", 
+    "max_hit_points": {
+      "bonus": 60, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the vicious warg", 
+    "thac0": 16, 
+    "xp": 1000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "warg", 
+      "ferocious"
+    ], 
+    "alignment": -350, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "It is an exceptionally large wolf with thick, black fur.  Saliva is dripping\nquickly from its long, white fangs.  It looks quite dangerous and very angry.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6101, 
+    "level": 5, 
+    "long_desc": "A ferocious warg is here, snarling angrily at you.", 
+    "max_hit_points": {
+      "bonus": 60, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the ferocious warg", 
+    "thac0": 16, 
+    "xp": 1000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wolf", 
+      "grey"
+    ], 
+    "alignment": -150, 
+    "armor_class": 7, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "The large, grey wolf eyes you with interest while licking its lips.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6102, 
+    "level": 3, 
+    "long_desc": "A large, grey wolf is here, glaring hungrily at you.", 
+    "max_hit_points": {
+      "bonus": 35, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the large, grey wolf", 
+    "thac0": 18, 
+    "xp": 450
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wolf", 
+      "black"
+    ], 
+    "alignment": -150, 
+    "armor_class": 7, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "The large, black wolf eyes you with interest while licking its lips.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6103, 
+    "level": 3, 
+    "long_desc": "A large, black wolf is here, glaring hungrily at you.", 
+    "max_hit_points": {
+      "bonus": 35, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the large, black wolf", 
+    "thac0": 18, 
+    "xp": 450
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }, 
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "tree", 
+      "ancient"
+    ], 
+    "alignment": 0, 
+    "armor_class": -10, 
+    "bare_hand_damage": {
+      "bonus": 10, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "Its roots are extremely big and large parts of them are above ground.\n\n>\nThe enormous grey trunk shivers slightly, as if sighing deeply.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AWARE", 
+        "value": 16
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6110, 
+    "level": 30, 
+    "long_desc": "A huge, ancient tree towers above you.", 
+    "max_hit_points": {
+      "bonus": 999, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "a huge, ancient tree, walking on giant roots,", 
+    "thac0": 1, 
+    "xp": 500000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }, 
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "tree", 
+      "ancient"
+    ], 
+    "alignment": 0, 
+    "armor_class": -10, 
+    "bare_hand_damage": {
+      "bonus": 10, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "Its roots are extremely big and large parts of them are above ground.\n\n>\nThe enormous grey trunk emits a deep, moaning sound.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AWARE", 
+        "value": 16
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6111, 
+    "level": 30, 
+    "long_desc": "A huge, ancient tree towers above you.", 
+    "max_hit_points": {
+      "bonus": 999, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "a huge, ancient tree, walking on giant roots,", 
+    "thac0": 1, 
+    "xp": 500000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "dragon", 
+      "green"
+    ], 
+    "alignment": -1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 3, 
+      "sides": 6
+    }, 
+    "detail_desc": "This enormous winged serpent has dark green scales covering most of its\ncolossal body.  Numerous holes in its heavy wings tell of many fights as does\nthe nicks in the horns on its head.  It smells as disgusting as only dragons\ndo.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6112, 
+    "level": 20, 
+    "long_desc": "A huge green dragon is here, its narrow yellow eyes glowing with rage.", 
+    "max_hit_points": {
+      "bonus": 248, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the huge, green dragon", 
+    "thac0": 1, 
+    "xp": 40000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "spider", 
+      "poisonous"
+    ], 
+    "alignment": -350, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "This disgusting creature is at the size of a human crawling on all four.  It\nhas eight hairy legs that gives it a tremendous speed on almost any surface and\nsharp poisonous fangs to paralyze or kill its prey.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6113, 
+    "level": 8, 
+    "long_desc": "A huge, poisonous spider is here.", 
+    "max_hit_points": {
+      "bonus": 98, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the huge, poisonous spider", 
+    "thac0": 13, 
+    "xp": 6000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "queen", 
+      "spider"
+    ], 
+    "alignment": -1000, 
+    "armor_class": 1, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 8
+    }, 
+    "detail_desc": "This disgusting creature is at the size of a small elephant.  It has eight\nhuge, hairy legs that would give it a tremendous speed on almost any surface\nif it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 0, 
+    "id": 6114, 
+    "level": 15, 
+    "long_desc": "The huge, bulky Queen Spider is here.", 
+    "max_hit_points": {
+      "bonus": 185, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Queen Spider", 
+    "thac0": 6, 
+    "xp": 28000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "INVISIBLE", 
+        "value": 2
+      }, 
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }, 
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "shargugh", 
+      "brownie"
+    ], 
+    "alignment": 1000, 
+    "armor_class": -10, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "This little fellow is only three foot tall with wild matted brown hair and long\ntangled brown beard.  He wears ragged brown and green clothing and looks as if\nhe is having great fun.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AWARE", 
+        "value": 16
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 1000, 
+    "id": 6115, 
+    "level": 10, 
+    "long_desc": "Shargugh the Forest Brownie is here, grinning broadly at you.", 
+    "max_hit_points": {
+      "bonus": 47, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Shargugh", 
+    "thac0": 1, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bug"
+    ], 
+    "alignment": -50, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 2
+    }, 
+    "detail_desc": "It is one of those irritating little creatures that like to infect innocent\nand defenceless programs, trying to make them act weird.  Programmers spend\ncountless hours trying to eliminate them, but they are indeed very hardy.\nDikuMUD is known to be one of their favourite habitats.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 6900, 
+    "level": 1, 
+    "long_desc": "A little, hairy computer bug is here, trying to mess things up.", 
+    "max_hit_points": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the computer bug", 
+    "thac0": 10, 
+    "xp": 200
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }, 
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "isha", 
+      "elf"
+    ], 
+    "alignment": -1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 3, 
+      "sides": 6
+    }, 
+    "detail_desc": "She is no less than beautiful, skin as dark as the night and hair shining like\nsilver in the moonlight.  Her slender body is adorned with a sleeveless shirt\nand a short skirt made from black scales joined with silver threads.  Her back\nis covered by a large, hooded cloak as black as her skin and in her broad\nsilver belt hangs a long, slender sword in a silver scabbard.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 5000, 
+    "id": 6910, 
+    "level": 20, 
+    "long_desc": "Isha the Dark Elf is here, observing you silently.", 
+    "max_hit_points": {
+      "bonus": 245, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Isha the Dark Elf", 
+    "thac0": 1, 
+    "xp": 40000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "mud", 
+      "monster", 
+      "mudmonster"
+    ], 
+    "alignment": -250, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "It sure looks like something out of a horrormovie. It strongly resembles\na huge figure made up from mud alone, and it sure looks like it had human \nflesh for breakfast and is strongly intent on having the same for dinner\n- Perhaps you?", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 100, 
+    "id": 7000, 
+    "level": 12, 
+    "long_desc": "A horrifying Mudmonster is slowly evolving from the mud ...", 
+    "max_hit_points": {
+      "bonus": 140, 
+      "dice": 4, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }, 
+      "load": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }
+    }, 
+    "short_desc": "The horrifying Mudmonster", 
+    "thac0": 9, 
+    "xp": 15000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "bat"
+    ], 
+    "alignment": -500, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 5
+    }, 
+    "detail_desc": "You have never in your entire life seen such a mean looking small creature,\nthough it looks rather peaceful, hanging there, sleeping. The thought of \narousing this cruel creature doesn't seem appealing.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 7001, 
+    "level": 1, 
+    "long_desc": "The small fierce-looking bat is hanging from the ceiling, obviously sleeping.", 
+    "max_hit_points": {
+      "bonus": 6, 
+      "dice": 5, 
+      "sides": 2
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }, 
+      "load": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }
+    }, 
+    "short_desc": "The small bat", 
+    "thac0": 20, 
+    "xp": 200
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "rat"
+    ], 
+    "alignment": -1000, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 40, 
+    "id": 7002, 
+    "level": 5, 
+    "long_desc": "The Huge Hungry-looking Sewer Rat sits here", 
+    "max_hit_points": {
+      "bonus": 48, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The Great Sewer Rat", 
+    "thac0": 16, 
+    "xp": 1000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "spider"
+    ], 
+    "alignment": -700, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 1, 
+    "id": 7003, 
+    "level": 1, 
+    "long_desc": "The small hairy Spider", 
+    "max_hit_points": {
+      "bonus": 8, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The small Spider", 
+    "thac0": 20, 
+    "xp": 100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "beetle"
+    ], 
+    "alignment": -300, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 1000, 
+    "id": 7004, 
+    "level": 8, 
+    "long_desc": "The Giant Mean-looking Earth Beetle", 
+    "max_hit_points": {
+      "bonus": 98, 
+      "dice": 2, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }, 
+      "load": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }
+    }, 
+    "short_desc": "The giant earth beetle", 
+    "thac0": 13, 
+    "xp": 5000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "maggot"
+    ], 
+    "alignment": 300, 
+    "armor_class": 9, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 7
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2, 
+    "id": 7005, 
+    "level": 3, 
+    "long_desc": "The Giant Maggot", 
+    "max_hit_points": {
+      "bonus": 35, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The maggot", 
+    "thac0": 17, 
+    "xp": 350
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "snake"
+    ], 
+    "alignment": -500, 
+    "armor_class": 7, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 9
+    }, 
+    "detail_desc": "", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 1, 
+    "id": 7006, 
+    "level": 4, 
+    "long_desc": "The snake slithers towards you", 
+    "max_hit_points": {
+      "bonus": 40, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The slithering snake", 
+    "thac0": 16, 
+    "xp": 1000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wanderer"
+    ], 
+    "alignment": -1000, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "The evil wanderer is very thin. He is dressed in a grey cloak.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 300, 
+    "id": 7007, 
+    "level": 10, 
+    "long_desc": "The evil wanderer stares at you", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 4, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The evil wanderer", 
+    "thac0": 11, 
+    "xp": 9500
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "homonculus", 
+      "homo"
+    ], 
+    "alignment": -780, 
+    "armor_class": 1, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "The Homonculus appears in a man-like form, about 18'' tall, it has a\ngreenish, reptilian skin, leathery wings, and a batlike mouth, with\nteeth gleaming yellow.", 
+    "extra_spec": {}, 
+    "flags": [], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 500, 
+    "id": 7008, 
+    "level": 11, 
+    "long_desc": "The creature homonculus is here, looking at you with an evil look.", 
+    "max_hit_points": {
+      "bonus": 130, 
+      "dice": 6, 
+      "sides": 3
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the creature homonculus", 
+    "thac0": 10, 
+    "xp": 11500
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }, 
+      {
+        "note": "SANCTUARY", 
+        "value": 128
+      }
+    ], 
+    "aliases": [
+      "grand", 
+      "knight", 
+      "paladin"
+    ], 
+    "alignment": 1000, 
+    "armor_class": -9, 
+    "bare_hand_damage": {
+      "bonus": 14, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "The Knight is standing here, smiling at you. He is dressed all in\nwhite, blue and silver. He looks VERY strong, as he stands here, ready to\nhelp the innocent.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 0, 
+    "id": 7009, 
+    "level": 29, 
+    "long_desc": "The Grand Knight is standing here, waiting for someone to help.", 
+    "max_hit_points": {
+      "bonus": 700, 
+      "dice": 20, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The Grand Knight of Paladins", 
+    "thac0": 0, 
+    "xp": 500000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }, 
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "chr-eff'n", 
+      "chr"
+    ], 
+    "alignment": -830, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "The head and torso of a chr-eff'n is copper-covered, with yellow\n,glowing eyes. The lower body is in an orange shading.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 1500, 
+    "id": 7010, 
+    "level": 12, 
+    "long_desc": "The chr-eff'n are crawling here, looking around with it's yellow eyes.", 
+    "max_hit_points": {
+      "bonus": 148, 
+      "dice": 2, 
+      "sides": 26
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the evil chr-eff'n", 
+    "thac0": 9, 
+    "xp": 13000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "morkoth"
+    ], 
+    "alignment": -900, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "It's a five feet tall, shadow monster. The shape of this creature lies\nsomewhere between a human and a rat. It breaths very heavily, while staring\nat you with such a glint in the eyes that reminds you of immense hunger.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 1, 
+    "id": 7011, 
+    "level": 10, 
+    "long_desc": "The Morkoth is standing here, waiting for someone to KILL!", 
+    "max_hit_points": {
+      "bonus": 120, 
+      "dice": 1, 
+      "sides": 20
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the shadowy Morkoth", 
+    "thac0": 12, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "esther", 
+      "madam"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 7, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "detail_desc": "She is very big standing here, smiling to you. She looks like the\nmother of the town, sometimes playing with the children, sometimes \nhelping the old people, with their daily work. All this in spite of\nher own hard work.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AWARE", 
+        "value": 16
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 6, 
+    "id": 7012, 
+    "level": 2, 
+    "long_desc": "Madam Esther is standing here, trying to sell dust.", 
+    "max_hit_points": {
+      "bonus": 23, 
+      "dice": 1, 
+      "sides": 2
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "Madam Esther", 
+    "thac0": 19, 
+    "xp": 150
+  }, 
+  {
+    "affects": [
+      {
+        "note": "HIDE", 
+        "value": 524288
+      }
+    ], 
+    "aliases": [
+      "mud", 
+      "monster", 
+      "mudmonster"
+    ], 
+    "alignment": -250, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "It sure looks like something out of a horrormovie. It strongly resembles\na huge figure made up from mud alone, and it sure looks like it had human \nflesh for breakfast and is strongly intent on having the same for dinner\n- Perhaps you?", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 1000, 
+    "id": 7013, 
+    "level": 12, 
+    "long_desc": "A horrifying Mudmonster is slowly evolving from the mud ...", 
+    "max_hit_points": {
+      "bonus": 140, 
+      "dice": 4, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }, 
+      "load": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }
+    }, 
+    "short_desc": "The horrifying Mudmonster", 
+    "thac0": 9, 
+    "xp": 15000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "red", 
+      "dragon"
+    ], 
+    "alignment": -1000, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 3, 
+      "dice": 3, 
+      "sides": 6
+    }, 
+    "detail_desc": "The red dragon stares at you, angrilly, as it wakes when you\narrives.  It says 'Oh, human YOU woke me up...Hsssss', while\nit moves closer ,'Can one NEVER sleep in peace..Hssss'.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SPEC", 
+        "value": 1
+      }, 
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 10000, 
+    "id": 7040, 
+    "level": 19, 
+    "long_desc": "The Red fierce-looking dragon stares at you angrily", 
+    "max_hit_points": {
+      "bonus": 230, 
+      "dice": 5, 
+      "sides": 4
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The red dragon", 
+    "thac0": 2, 
+    "xp": 35100
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "sea", 
+      "hag"
+    ], 
+    "alignment": -800, 
+    "armor_class": 1, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 8
+    }, 
+    "detail_desc": "The sea hag is so ghastly looking that you fell's the deepest\nfear: Big yellow eyes and sharp teeths. Its ears are very big,\nand it have small sharp horns. This type of monsters are one of\nthe greatest haters of beauty (Next after Medusa).", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 0, 
+    "id": 7041, 
+    "level": 14, 
+    "long_desc": "The Sea Hag is swimming around here", 
+    "max_hit_points": {
+      "bonus": 172, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The sea hag", 
+    "thac0": 7, 
+    "xp": 18000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "guardian", 
+      "naga"
+    ], 
+    "alignment": 700, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "The naga are a snake-liked creature. She is covered in green-gold\nscale with silvery triangles along her back. Her eyes are golden.\nShe notice that you look at her, and she says: 'Watch out. This way\nleads to some evil creatures'.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "F", 
+      "value": 2
+    }, 
+    "gold": 100, 
+    "id": 7042, 
+    "level": 12, 
+    "long_desc": "The Guardian Naga looks kindly at you.", 
+    "max_hit_points": {
+      "bonus": 148, 
+      "dice": 1, 
+      "sides": 18
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The guardian naga", 
+    "thac0": 9, 
+    "xp": 13500
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "scaled", 
+      "basilisk"
+    ], 
+    "alignment": -250, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 7
+    }, 
+    "detail_desc": "The basilisk is a reptilian monster. It has eight legs, and a strong\ntoothy jaws. It is dull brown with yellowish underbell. It's eyes are\nglowing pale green.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 350, 
+    "id": 7043, 
+    "level": 13, 
+    "long_desc": "The scaled Basilisk crawls towards you slowly.", 
+    "max_hit_points": {
+      "bonus": 160, 
+      "dice": 1, 
+      "sides": 12
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The scaled basilisk", 
+    "thac0": 11, 
+    "xp": 16000
+  }, 
+  {
+    "affects": [
+      {
+        "note": null, 
+        "value": 4194304
+      }
+    ], 
+    "aliases": [
+      "lemure", 
+      "blob"
+    ], 
+    "alignment": -500, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "This looks like a vaguely human blob. Big black yellow eyes, and a\nmouth going a little bit out from the face. The lemure does not look\ninterested in you at all, but anyway it attackes. It looks like it's\nmind has been burned out.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 7044, 
+    "level": 5, 
+    "long_desc": "The lemure blob slithers terribly precisely towards you for an attack!", 
+    "max_hit_points": {
+      "bonus": 57, 
+      "dice": 3, 
+      "sides": 5
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The lemure", 
+    "thac0": 16, 
+    "xp": 1000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "jones", 
+      "cruncher", 
+      "ettin"
+    ], 
+    "alignment": -480, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "At the first sight you thought Jones was an Orc, but when it came\ncloser you saw his second head. He wears an animal skinn dress,\nfilthy and moth eaten. Jones really stinks...", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 60, 
+    "id": 7045, 
+    "level": 10, 
+    "long_desc": "Jones is standing here glaring at you.", 
+    "max_hit_points": {
+      "bonus": 130, 
+      "dice": 1, 
+      "sides": 5
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }, 
+      "load": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }
+    }, 
+    "short_desc": "Jones 'cruncher' the ettin", 
+    "thac0": 11, 
+    "xp": 11000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "herald", 
+      "mouse", 
+      "killer", 
+      "ettin"
+    ], 
+    "alignment": 200, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "When you look at Herald, you feel petty. His dress are really poor,\nand the one of his heads hangs down. At the rope around his stomach\nhangs dead mouses and rats. He does not smell good.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 40, 
+    "id": 7046, 
+    "level": 6, 
+    "long_desc": "Herald is standing here looking confused at you.", 
+    "max_hit_points": {
+      "bonus": 70, 
+      "dice": 3, 
+      "sides": 5
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }, 
+      "load": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }
+    }, 
+    "short_desc": "Herald 'the mouse-killer' ettin", 
+    "thac0": 14, 
+    "xp": 1500
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "master", 
+      "mind", 
+      "mindflayer"
+    ], 
+    "alignment": -800, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 4, 
+      "dice": 3, 
+      "sides": 4
+    }, 
+    "detail_desc": "It's a seven foot tall humanoid dressed in a purple cloak, and swinging a\nblack and purple rod above its head as if it was going to attack you any\nmoment now. In the middle of its head are four tentacles with sharp points.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 7200, 
+    "level": 14, 
+    "long_desc": "The master mindflayer is here, looking at you with an evil look.", 
+    "max_hit_points": {
+      "bonus": 170, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The master mindflayer", 
+    "thac0": 7, 
+    "xp": 18000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "senior", 
+      "mind", 
+      "mindflayer"
+    ], 
+    "alignment": -600, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 3, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "This is a horrifying monster indeed, 6'6\" high. Dressed in purple and black,\nand carrying a large mace in its hand. In the center of its head are four large\ntentacles with very sharp points.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 400, 
+    "id": 7201, 
+    "level": 8, 
+    "long_desc": "The senior mindflayer walks around here, looking for something useful.", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The senior mindflayer", 
+    "thac0": 13, 
+    "xp": 3750
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "junior", 
+      "mind", 
+      "mindflayer"
+    ], 
+    "alignment": -350, 
+    "armor_class": 4, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 1, 
+      "sides": 4
+    }, 
+    "detail_desc": "This mindflayer is six foot high. It has a small mace in its belt, and is\ndressed in purple and black cloth. It has four small tentacles in the \ncenter of its head.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 200, 
+    "id": 7202, 
+    "level": 6, 
+    "long_desc": "The junior mindflayer is here, watching you carefully from the corner.", 
+    "max_hit_points": {
+      "bonus": 75, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The junior mindflayer", 
+    "thac0": 15, 
+    "xp": 1500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "wererat", 
+      "rat", 
+      "were"
+    ], 
+    "alignment": -700, 
+    "armor_class": 3, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "The wererat is about four foot tall. It looks very much like rat, exept\nthat it is standing.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 50, 
+    "id": 7203, 
+    "level": 6, 
+    "long_desc": "An ugly wererat is here, looking at you with a strange flick in his eyes.", 
+    "max_hit_points": {
+      "bonus": 69, 
+      "dice": 4, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The ugly wererat", 
+    "thac0": 15, 
+    "xp": 1500
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "rat", 
+      "gigantic"
+    ], 
+    "alignment": -800, 
+    "armor_class": 2, 
+    "bare_hand_damage": {
+      "bonus": 2, 
+      "dice": 2, 
+      "sides": 6
+    }, 
+    "detail_desc": "The gigantic rat is about ten foot long from head to tail and has claws\nthe size of your head looking very nasty.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }, 
+      {
+        "note": "AGGRESSIVE", 
+        "value": 32
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 2513, 
+    "id": 7204, 
+    "level": 12, 
+    "long_desc": "There is a gigantic rat here, looking at you with a hungry look.", 
+    "max_hit_points": {
+      "bonus": 150, 
+      "dice": 1, 
+      "sides": 10
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }, 
+      "load": {
+        "note": "POSITION_SLEEPING", 
+        "value": 4
+      }
+    }, 
+    "short_desc": "The gigantic rat", 
+    "thac0": 9, 
+    "xp": 13000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "shredder"
+    ], 
+    "alignment": -500, 
+    "armor_class": -3, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 20
+    }, 
+    "detail_desc": "It is obviously a large creature, but an improbable number of sharp \nblades, claws and edges makes it near impossible to see its actual \nbody. It is gleaming, a metallic black, although occasionally a claw or \nblade changes colour for a while, becoming a neon yellow.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 8000, 
+    "level": 9, 
+    "long_desc": "A Shredder advances towards you, claws clicking menacingly.", 
+    "max_hit_points": {
+      "bonus": 81, 
+      "dice": 9, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Shredder", 
+    "thac0": 11, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "bug"
+    ], 
+    "alignment": 0, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 3
+    }, 
+    "detail_desc": "It is a smallish creature, with too many legs to count, obviously \nvery fast. It has a multicoloured carapace (looking much like an oil \nslick on a puddle), and bright red pinpoint eyes.", 
+    "extra_spec": {}, 
+    "flags": [], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 2, 
+    "id": 8001, 
+    "level": 1, 
+    "long_desc": "A bug scuttles towards you, running in small circles around your \nfeet.", 
+    "max_hit_points": {
+      "bonus": 9, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the bug", 
+    "thac0": 20, 
+    "xp": 150
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }
+    ], 
+    "aliases": [
+      "daemon"
+    ], 
+    "alignment": 400, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 8, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "detail_desc": "It appears to be a vaguely man-shaped (but larger than man-sized!) hole \nin the fabric of reality... looking closely, you can see stars, either \ninside it, or far beyond it...", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SENTINEL", 
+        "value": 2
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 8003, 
+    "level": 10, 
+    "long_desc": "The Daemon looks at you expressionlessly, from the comfort of its\nchair (it feels that way, anyway... You can't see its eyes). Then its\nattention returns to the screens.", 
+    "max_hit_points": {
+      "bonus": 90, 
+      "dice": 10, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }, 
+      "load": {
+        "note": "POSITION_RESTING", 
+        "value": 5
+      }
+    }, 
+    "short_desc": "the Daemon", 
+    "thac0": 10, 
+    "xp": 9000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cursor"
+    ], 
+    "alignment": 0, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "It is a ball of pulsating colours, extruding and retracting sharp \npoints continually, sometimes changing shape altogether into some \nregular solid like a cube or an octahedron.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 8005, 
+    "level": 3, 
+    "long_desc": "The Cursor is here, tracing incomprehensible patterns in the air.", 
+    "max_hit_points": {
+      "bonus": 27, 
+      "dice": 3, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the cursor", 
+    "thac0": 16, 
+    "xp": 450
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "juggernaut"
+    ], 
+    "alignment": 400, 
+    "armor_class": 0, 
+    "bare_hand_damage": {
+      "bonus": 1, 
+      "dice": 2, 
+      "sides": 5
+    }, 
+    "detail_desc": "It is _very_ large, some 10 yds in length, walking on several hundred \ntiny legs. It is metallic-looking, with large spots of corrosion \nmarring its angular skin. On its sides are large signs, written in an \nincomprehensible language. On its top, a small eye cluster swivels back \nand forth continually. A number of tentacles sweeps the ground around \nit.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "SCAVENGER", 
+        "value": 4
+      }, 
+      {
+        "note": "AWARE", 
+        "value": 16
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 100, 
+    "id": 8006, 
+    "level": 8, 
+    "long_desc": "A Juggernaut a working its way methodically through this area.", 
+    "max_hit_points": {
+      "bonus": 100, 
+      "dice": 14, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the Juggernaut", 
+    "thac0": 12, 
+    "xp": 10000
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "butterfly", 
+      "fly"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 19, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 1, 
+      "sides": 3
+    }, 
+    "detail_desc": "It is, on closer inspection, not really an animal, but a variable \nnumber of brightly-coloured, translucent planes of breathtaking beauty \nand delicacy. The planes pulse, waver, sometimes disappear, but are \nalways replaced by another. None of the planes move, but through \ncontinuous replacement, the butterfly does, in random sweeps.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "AWARE", 
+        "value": 16
+      }, 
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }
+    ], 
+    "gender": {
+      "note": "N", 
+      "value": 0
+    }, 
+    "gold": 0, 
+    "id": 8008, 
+    "level": 1, 
+    "long_desc": "A beautiful, butterfly-like thing is fluttering around here.", 
+    "max_hit_points": {
+      "bonus": 9, 
+      "dice": 1, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the butterfly", 
+    "thac0": 20, 
+    "xp": 1
+  }, 
+  {
+    "affects": [], 
+    "aliases": [
+      "cowboy"
+    ], 
+    "alignment": 400, 
+    "armor_class": 6, 
+    "bare_hand_damage": {
+      "bonus": 0, 
+      "dice": 2, 
+      "sides": 4
+    }, 
+    "detail_desc": "He is dressed in jeans, boots, a hat that shades his face so that it\nis hard to see, where he's looking. He is walking around purposefully,\nas if searching for something, occasionally getting down to one knee,\nmaking strange passes in the air, then picking up pieces of the ground \nthat are apparently not so solid now. He is carrying a leather satchel \nover the shoulder, into which he sometimes place some of the pieces. At\nhis belt hangs a strange, bluish whip\nWhen ne notices your intense scrutiny, he looks at you coldly, until you\nare forced to look away.", 
+    "extra_spec": {}, 
+    "flags": [], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 40, 
+    "id": 8010, 
+    "level": 5, 
+    "long_desc": "A hard-eyed cowboy is here, going about his business.", 
+    "max_hit_points": {
+      "bonus": 45, 
+      "dice": 5, 
+      "sides": 6
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "the cowboy", 
+    "thac0": 10, 
+    "xp": 2000
+  }, 
+  {
+    "affects": [
+      {
+        "note": "DETECT_INVIS", 
+        "value": 8
+      }, 
+      {
+        "note": "SANCTUARY", 
+        "value": 128
+      }
+    ], 
+    "aliases": [
+      "hierophant"
+    ], 
+    "alignment": 1000, 
+    "armor_class": 5, 
+    "bare_hand_damage": {
+      "bonus": 3, 
+      "dice": 1, 
+      "sides": 8
+    }, 
+    "detail_desc": "He is a very old man, dressed in an old robe, but from the glint in his clear\nblue eyes You can see that He is aware of the world, and Wise to its traps\nand pitfalls.", 
+    "extra_spec": {}, 
+    "flags": [
+      {
+        "note": "STAY_ZONE", 
+        "value": 64
+      }, 
+      {
+        "note": "WIMPY", 
+        "value": 128
+      }
+    ], 
+    "gender": {
+      "note": "M", 
+      "value": 1
+    }, 
+    "gold": 50, 
+    "id": 8900, 
+    "level": 20, 
+    "long_desc": "The old Hierophant of the holy grove is here, gathering hollies.", 
+    "max_hit_points": {
+      "bonus": 370, 
+      "dice": 1, 
+      "sides": 1
+    }, 
+    "mob_type": "S", 
+    "position": {
+      "default": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }, 
+      "load": {
+        "note": "POSITION_STANDING", 
+        "value": 8
+      }
+    }, 
+    "short_desc": "The Hierophant", 
+    "thac0": 0, 
+    "xp": 40000
+  }
+]
